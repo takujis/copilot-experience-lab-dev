@@ -1,5 +1,6 @@
 # Experience 01 - Create Your Work Persona Sketch
 
+
 ## 🎯 What You'll Experience
 
 Microsoft 365 Copilot を使って、
@@ -186,6 +187,11 @@ Copilot はあなたの働き方から何を読み取ったでしょうか？
 ---
 
 ## ✨ What You Learned
+
+例：
+<p align="center">
+<img src="../assets/persona-sketch.png">
+</p>
 
 この体験を通じて、
 
