@@ -36,7 +36,7 @@
 | 1 | [Copilotに自分の現在地を聞く｜DAY-01](./contents/copilot-chat/Copilotに自分の現在地を聞く_DAY-01.md) |
 | 2 | [忙しい朝を3分で整理する｜DAY-02](./contents/copilot-chat/忙しい朝を3分で整理する_DAY-02.md) |
 | 3 | [長いメールスレッドから結論だけを得る｜DAY-03](./contents/copilot-chat/長いメールスレッドから結論だけを得る_DAY-03.md) |
-| 4 | [会議前の「何を話せばよいか」を作る｜DAY-04](./contents/copilot-chat/会議前の「何を話せばよいか」を作る_DAY-04.md) |
+| 4 | [会議前の「何を話せばよいか」を作る｜DAY-04](./contents/copilot-chat/会議前の_何を話せばよいか_を作る_DAY-04.md) |
 | 5 | [Week 1の驚きを言語化する｜DAY-05](./contents/copilot-chat/Week%201の驚きを言語化する_DAY-05.md) |
 
 ### Week 2：毎日発生する面倒をCopilotに渡す
