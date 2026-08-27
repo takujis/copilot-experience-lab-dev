@@ -5,7 +5,7 @@ description: 30 日間で「自分の仕事」に Copilot を溶かし込む体�
 ---
 
 <!-- GitHub Pages（Jekyll）用のトップページです。
-     各扉のリンク先は .html です。Jekyll が同じフォルダーの .md を .html として出力するためです。
+     各扉のリンク先は ./contents/copilot-chat/ 配下の .html です。Jekyll が .md を .html として出力するためです。
      Jekyll を使わず .md のまま配信する場合は、href の拡張子を .html → .md に置換してください。
      リポジトリ上（github.com）で直接見る場合は README.md の一覧をご利用ください。 -->
 
@@ -70,152 +70,152 @@ description: 30 日間で「自分の仕事」に Copilot を溶かし込む体�
 </ul>
 
 <div class="c30-grid">
-  <a class="c30-door w1" href="Copilot%E3%81%AB%E8%87%AA%E5%88%86%E3%81%AE%E7%8F%BE%E5%9C%A8%E5%9C%B0%E3%82%92%E8%81%9E%E3%81%8F_DAY-01.html">
+  <a class="c30-door w1" href="./contents/copilot-chat/Copilot%E3%81%AB%E8%87%AA%E5%88%86%E3%81%AE%E7%8F%BE%E5%9C%A8%E5%9C%B0%E3%82%92%E8%81%9E%E3%81%8F_DAY-01.html">
     <span class="c30-num"><b>01</b><span>DAY</span></span>
     <span class="c30-title">Copilotに自分の現在地を聞く</span>
     <span class="c30-meta">約 10 分</span>
   </a>
-  <a class="c30-door w1 is-key" href="%E5%BF%99%E3%81%97%E3%81%84%E6%9C%9D%E3%82%923%E5%88%86%E3%81%A7%E6%95%B4%E7%90%86%E3%81%99%E3%82%8B_DAY-02.html">
+  <a class="c30-door w1 is-key" href="./contents/copilot-chat/%E5%BF%99%E3%81%97%E3%81%84%E6%9C%9D%E3%82%923%E5%88%86%E3%81%A7%E6%95%B4%E7%90%86%E3%81%99%E3%82%8B_DAY-02.html">
     <span class="c30-num"><b>02</b><span>DAY</span></span>
     <span class="c30-title">忙しい朝を3分で整理する</span>
     <span class="c30-meta">約 5 分</span>
   </a>
-  <a class="c30-door w1" href="%E9%95%B7%E3%81%84%E3%83%A1%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%AC%E3%83%83%E3%83%89%E3%81%8B%E3%82%89%E7%B5%90%E8%AB%96%E3%81%A0%E3%81%91%E3%82%92%E5%BE%97%E3%82%8B_DAY-03.html">
+  <a class="c30-door w1" href="./contents/copilot-chat/%E9%95%B7%E3%81%84%E3%83%A1%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%AC%E3%83%83%E3%83%89%E3%81%8B%E3%82%89%E7%B5%90%E8%AB%96%E3%81%A0%E3%81%91%E3%82%92%E5%BE%97%E3%82%8B_DAY-03.html">
     <span class="c30-num"><b>03</b><span>DAY</span></span>
     <span class="c30-title">長いメールスレッドから結論だけを得る</span>
     <span class="c30-meta">約 10 分</span>
   </a>
-  <a class="c30-door w1 is-key" href="%E4%BC%9A%E8%AD%B0%E5%89%8D%E3%81%AE%E3%80%8C%E4%BD%95%E3%82%92%E8%A9%B1%E3%81%9B%E3%81%B0%E3%82%88%E3%81%84%E3%81%8B%E3%80%8D%E3%82%92%E4%BD%9C%E3%82%8B_DAY-04.html">
+  <a class="c30-door w1 is-key" href="./contents/copilot-chat/%E4%BC%9A%E8%AD%B0%E5%89%8D%E3%81%AE%E3%80%8C%E4%BD%95%E3%82%92%E8%A9%B1%E3%81%9B%E3%81%B0%E3%82%88%E3%81%84%E3%81%8B%E3%80%8D%E3%82%92%E4%BD%9C%E3%82%8B_DAY-04.html">
     <span class="c30-num"><b>04</b><span>DAY</span></span>
     <span class="c30-title">会議前の「何を話せばよいか」を作る</span>
     <span class="c30-meta">約 10 分</span>
   </a>
-  <a class="c30-door w1" href="Week%201%E3%81%AE%E9%A9%9A%E3%81%8D%E3%82%92%E8%A8%80%E8%AA%9E%E5%8C%96%E3%81%99%E3%82%8B_DAY-05.html">
+  <a class="c30-door w1" href="./contents/copilot-chat/Week%201%E3%81%AE%E9%A9%9A%E3%81%8D%E3%82%92%E8%A8%80%E8%AA%9E%E5%8C%96%E3%81%99%E3%82%8B_DAY-05.html">
     <span class="c30-num"><b>05</b><span>DAY</span></span>
     <span class="c30-title">Week 1の驚きを言語化する</span>
     <span class="c30-meta">約 10 分 ＋ 共有 5 分</span>
   </a>
-  <a class="c30-door w2" href="%E6%9C%AA%E5%87%A6%E7%90%86%E3%83%A1%E3%83%BC%E3%83%AB%E3%82%92%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%95%B4%E7%90%86%E3%81%99%E3%82%8B_DAY-06.html">
+  <a class="c30-door w2" href="./contents/copilot-chat/%E6%9C%AA%E5%87%A6%E7%90%86%E3%83%A1%E3%83%BC%E3%83%AB%E3%82%92%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%95%B4%E7%90%86%E3%81%99%E3%82%8B_DAY-06.html">
     <span class="c30-num"><b>06</b><span>DAY</span></span>
     <span class="c30-title">未処理メールをまとめて整理する</span>
     <span class="c30-meta">約 10 分</span>
   </a>
-  <a class="c30-door w2" href="%E6%96%87%E7%AB%A0%E3%82%92%E3%80%8C%E7%9B%B8%E6%89%8B%E3%81%AB%E4%BC%9D%E3%82%8F%E3%82%8B%E5%BD%A2%E3%80%8D%E3%81%B8%E5%A4%89%E6%8F%9B%E3%81%99%E3%82%8B_DAY-07.html">
+  <a class="c30-door w2" href="./contents/copilot-chat/%E6%96%87%E7%AB%A0%E3%82%92%E3%80%8C%E7%9B%B8%E6%89%8B%E3%81%AB%E4%BC%9D%E3%82%8F%E3%82%8B%E5%BD%A2%E3%80%8D%E3%81%B8%E5%A4%89%E6%8F%9B%E3%81%99%E3%82%8B_DAY-07.html">
     <span class="c30-num"><b>07</b><span>DAY</span></span>
     <span class="c30-title">文章を「相手に伝わる形」へ変換する</span>
     <span class="c30-meta">約 5 分</span>
   </a>
-  <a class="c30-door w2" href="%E3%83%A1%E3%83%BC%E3%83%AB%E8%BF%94%E4%BF%A1%E3%82%923%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E4%BD%9C%E3%82%8B_DAY-08.html">
+  <a class="c30-door w2" href="./contents/copilot-chat/%E3%83%A1%E3%83%BC%E3%83%AB%E8%BF%94%E4%BF%A1%E3%82%923%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E4%BD%9C%E3%82%8B_DAY-08.html">
     <span class="c30-num"><b>08</b><span>DAY</span></span>
     <span class="c30-title">メール返信を3パターン作る</span>
     <span class="c30-meta">約 5 分</span>
   </a>
-  <a class="c30-door w2 is-key" href="%E4%BC%9A%E8%AD%B0%E5%BE%8C%E3%81%AE%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%92%E8%87%AA%E5%88%86%E7%94%A8%E3%81%AB%E5%86%8D%E6%95%B4%E7%90%86%E3%81%99%E3%82%8B_DAY-09.html">
+  <a class="c30-door w2 is-key" href="./contents/copilot-chat/%E4%BC%9A%E8%AD%B0%E5%BE%8C%E3%81%AE%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%92%E8%87%AA%E5%88%86%E7%94%A8%E3%81%AB%E5%86%8D%E6%95%B4%E7%90%86%E3%81%99%E3%82%8B_DAY-09.html">
     <span class="c30-num"><b>09</b><span>DAY</span></span>
     <span class="c30-title">会議後のアクションを自分用に再整理する</span>
     <span class="c30-meta">約 10 分</span>
   </a>
-  <a class="c30-door w2" href="%E8%A6%8B%E8%90%BD%E3%81%A8%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E4%BE%9D%E9%A0%BC%E3%82%92%E6%8E%A2%E3%81%99_DAY-10.html">
+  <a class="c30-door w2" href="./contents/copilot-chat/%E8%A6%8B%E8%90%BD%E3%81%A8%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E4%BE%9D%E9%A0%BC%E3%82%92%E6%8E%A2%E3%81%99_DAY-10.html">
     <span class="c30-num"><b>10</b><span>DAY</span></span>
     <span class="c30-title">見落としている依頼を探す</span>
     <span class="c30-meta">約 10 分</span>
   </a>
-  <a class="c30-door w2" href="1%E6%97%A5%E3%81%AE%E7%B5%82%E3%82%8F%E3%82%8A%E3%82%92Copilot%E3%81%A7%E7%B7%A0%E3%82%81%E3%82%8B_DAY-11.html">
+  <a class="c30-door w2" href="./contents/copilot-chat/1%E6%97%A5%E3%81%AE%E7%B5%82%E3%82%8F%E3%82%8A%E3%82%92Copilot%E3%81%A7%E7%B7%A0%E3%82%81%E3%82%8B_DAY-11.html">
     <span class="c30-num"><b>11</b><span>DAY</span></span>
     <span class="c30-title">1日の終わりをCopilotで締める</span>
     <span class="c30-meta">約 5 分</span>
   </a>
-  <a class="c30-door w2" href="%E6%9C%9D%E3%81%BE%E3%81%9F%E3%81%AF%E5%A4%95%E6%96%B9%E3%81%AE%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%E3%82%92%E5%AE%9A%E5%9E%8B%E5%8C%96%E3%81%99%E3%82%8B_DAY-12.html">
+  <a class="c30-door w2" href="./contents/copilot-chat/%E6%9C%9D%E3%81%BE%E3%81%9F%E3%81%AF%E5%A4%95%E6%96%B9%E3%81%AE%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%E3%82%92%E5%AE%9A%E5%9E%8B%E5%8C%96%E3%81%99%E3%82%8B_DAY-12.html">
     <span class="c30-num"><b>12</b><span>DAY</span></span>
     <span class="c30-title">朝または夕方のプロンプトを定型化する</span>
     <span class="c30-meta">約 10 分</span>
   </a>
-  <a class="c30-door w3" href="%E6%97%A2%E5%AD%98%E8%B3%87%E6%96%99%E3%82%92%E8%A6%81%E7%B4%84%E3%81%99%E3%82%8B_DAY-13.html">
+  <a class="c30-door w3" href="./contents/copilot-chat/%E6%97%A2%E5%AD%98%E8%B3%87%E6%96%99%E3%82%92%E8%A6%81%E7%B4%84%E3%81%99%E3%82%8B_DAY-13.html">
     <span class="c30-num"><b>13</b><span>DAY</span></span>
     <span class="c30-title">既存資料を要約する</span>
     <span class="c30-meta">約 10 分</span>
   </a>
-  <a class="c30-door w3" href="%E8%A4%87%E6%95%B0%E8%B3%87%E6%96%99%E3%82%92%E6%AF%94%E8%BC%83%E3%81%99%E3%82%8B_DAY-14.html">
+  <a class="c30-door w3" href="./contents/copilot-chat/%E8%A4%87%E6%95%B0%E8%B3%87%E6%96%99%E3%82%92%E6%AF%94%E8%BC%83%E3%81%99%E3%82%8B_DAY-14.html">
     <span class="c30-num"><b>14</b><span>DAY</span></span>
     <span class="c30-title">複数資料を比較する</span>
     <span class="c30-meta">約 10 分</span>
   </a>
-  <a class="c30-door w3" href="%E7%AE%87%E6%9D%A1%E6%9B%B8%E3%81%8D%E3%81%8B%E3%82%89%E6%96%87%E6%9B%B8%E3%81%AE%E5%88%9D%E7%A8%BF%E3%82%92%E4%BD%9C%E3%82%8B_DAY-15.html">
+  <a class="c30-door w3" href="./contents/copilot-chat/%E7%AE%87%E6%9D%A1%E6%9B%B8%E3%81%8D%E3%81%8B%E3%82%89%E6%96%87%E6%9B%B8%E3%81%AE%E5%88%9D%E7%A8%BF%E3%82%92%E4%BD%9C%E3%82%8B_DAY-15.html">
     <span class="c30-num"><b>15</b><span>DAY</span></span>
     <span class="c30-title">箇条書きから文書の初稿を作る</span>
     <span class="c30-meta">約 15 分</span>
   </a>
-  <a class="c30-door w3" href="%E9%95%B7%E3%81%84%E6%96%87%E6%9B%B8%E3%82%92%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%81%97%E3%81%A6%E3%82%82%E3%82%89%E3%81%86_DAY-16.html">
+  <a class="c30-door w3" href="./contents/copilot-chat/%E9%95%B7%E3%81%84%E6%96%87%E6%9B%B8%E3%82%92%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%81%97%E3%81%A6%E3%82%82%E3%82%89%E3%81%86_DAY-16.html">
     <span class="c30-num"><b>16</b><span>DAY</span></span>
     <span class="c30-title">長い文書をレビューしてもらう</span>
     <span class="c30-meta">約 10 分</span>
   </a>
-  <a class="c30-door w3" href="Word%E3%81%8B%E3%82%89%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E6%A7%8B%E6%88%90%E3%82%92%E4%BD%9C%E3%82%8B_DAY-17.html">
+  <a class="c30-door w3" href="./contents/copilot-chat/Word%E3%81%8B%E3%82%89%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E6%A7%8B%E6%88%90%E3%82%92%E4%BD%9C%E3%82%8B_DAY-17.html">
     <span class="c30-num"><b>17</b><span>DAY</span></span>
     <span class="c30-title">Wordからプレゼンテーションの構成を作る</span>
     <span class="c30-meta">約 15 分</span>
   </a>
-  <a class="c30-door w3 is-key" href="%E8%87%AA%E7%A4%BE%E7%B4%B9%E4%BB%8B%E3%82%92%E8%A6%96%E8%A6%9A%E5%8C%96%E3%81%99%E3%82%8B_DAY-18.html">
+  <a class="c30-door w3 is-key" href="./contents/copilot-chat/%E8%87%AA%E7%A4%BE%E7%B4%B9%E4%BB%8B%E3%82%92%E8%A6%96%E8%A6%9A%E5%8C%96%E3%81%99%E3%82%8B_DAY-18.html">
     <span class="c30-num"><b>18</b><span>DAY</span></span>
     <span class="c30-title">自社紹介を視覚化する</span>
     <span class="c30-meta">約 15 分</span>
   </a>
-  <a class="c30-door w3" href="Excel%E3%83%87%E3%83%BC%E3%82%BF%E3%81%8B%E3%82%89%E7%A4%BA%E5%94%86%E3%82%92%E5%BE%97%E3%82%8B_DAY-19.html">
+  <a class="c30-door w3" href="./contents/copilot-chat/Excel%E3%83%87%E3%83%BC%E3%82%BF%E3%81%8B%E3%82%89%E7%A4%BA%E5%94%86%E3%82%92%E5%BE%97%E3%82%8B_DAY-19.html">
     <span class="c30-num"><b>19</b><span>DAY</span></span>
     <span class="c30-title">Excelデータから示唆を得る</span>
     <span class="c30-meta">約 15 分</span>
   </a>
-  <a class="c30-door w4" href="%E4%BC%9A%E8%AD%B0%E5%89%8D%E3%81%8B%E3%82%89%E4%BC%9A%E8%AD%B0%E5%BE%8C%E3%81%BE%E3%81%A7%E3%82%92%E4%B8%80%E9%80%A3%E3%81%A7%E4%BD%BF%E3%81%86_DAY-20.html">
+  <a class="c30-door w4" href="./contents/copilot-chat/%E4%BC%9A%E8%AD%B0%E5%89%8D%E3%81%8B%E3%82%89%E4%BC%9A%E8%AD%B0%E5%BE%8C%E3%81%BE%E3%81%A7%E3%82%92%E4%B8%80%E9%80%A3%E3%81%A7%E4%BD%BF%E3%81%86_DAY-20.html">
     <span class="c30-num"><b>20</b><span>DAY</span></span>
     <span class="c30-title">会議前から会議後までを一連で使う</span>
     <span class="c30-meta">会議前 10 分 ＋ 会議後 10 分</span>
   </a>
-  <a class="c30-door w4" href="%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%81%AE%E7%8A%B6%E6%B3%81%E3%82%92%E6%A8%AA%E6%96%AD%E7%9A%84%E3%81%AB%E6%8A%8A%E6%8F%A1%E3%81%99%E3%82%8B_DAY-21.html">
+  <a class="c30-door w4" href="./contents/copilot-chat/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%81%AE%E7%8A%B6%E6%B3%81%E3%82%92%E6%A8%AA%E6%96%AD%E7%9A%84%E3%81%AB%E6%8A%8A%E6%8F%A1%E3%81%99%E3%82%8B_DAY-21.html">
     <span class="c30-num"><b>21</b><span>DAY</span></span>
     <span class="c30-title">プロジェクトの状況を横断的に把握する</span>
     <span class="c30-meta">約 10 分</span>
   </a>
-  <a class="c30-door w4" href="%E3%80%8C%E6%9C%80%E6%96%B0%E7%8A%B6%E6%B3%81%E3%82%92%E6%95%99%E3%81%88%E3%81%A6%E3%80%8D%E3%82%92%E8%87%AA%E5%88%86%E3%81%AE%E6%A1%88%E4%BB%B6%E3%81%A7%E4%BD%BF%E3%81%86_DAY-22.html">
+  <a class="c30-door w4" href="./contents/copilot-chat/%E3%80%8C%E6%9C%80%E6%96%B0%E7%8A%B6%E6%B3%81%E3%82%92%E6%95%99%E3%81%88%E3%81%A6%E3%80%8D%E3%82%92%E8%87%AA%E5%88%86%E3%81%AE%E6%A1%88%E4%BB%B6%E3%81%A7%E4%BD%BF%E3%81%86_DAY-22.html">
     <span class="c30-num"><b>22</b><span>DAY</span></span>
     <span class="c30-title">「最新状況を教えて」を自分の案件で使う</span>
     <span class="c30-meta">約 10 分</span>
   </a>
-  <a class="c30-door w4" href="%E5%BD%B9%E5%89%B2%E5%88%A5%E3%81%AE%E3%83%A6%E3%83%BC%E3%82%B9%E3%82%B1%E3%83%BC%E3%82%B9%E3%82%92%E4%BD%9C%E3%82%8B_DAY-23.html">
+  <a class="c30-door w4" href="./contents/copilot-chat/%E5%BD%B9%E5%89%B2%E5%88%A5%E3%81%AE%E3%83%A6%E3%83%BC%E3%82%B9%E3%82%B1%E3%83%BC%E3%82%B9%E3%82%92%E4%BD%9C%E3%82%8B_DAY-23.html">
     <span class="c30-num"><b>23</b><span>DAY</span></span>
     <span class="c30-title">役割別のユースケースを作る</span>
     <span class="c30-meta">約 10 分</span>
   </a>
-  <a class="c30-door w4 is-key" href="%E8%87%AA%E5%88%86%E5%B0%82%E7%94%A8%E3%81%AE%E3%80%8C%E9%89%84%E6%9D%BF%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%E3%80%8D%E3%82%92%E4%BD%9C%E3%82%8B_DAY-24.html">
+  <a class="c30-door w4 is-key" href="./contents/copilot-chat/%E8%87%AA%E5%88%86%E5%B0%82%E7%94%A8%E3%81%AE%E3%80%8C%E9%89%84%E6%9D%BF%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%E3%80%8D%E3%82%92%E4%BD%9C%E3%82%8B_DAY-24.html">
     <span class="c30-num"><b>24</b><span>DAY</span></span>
     <span class="c30-title">自分専用の「鉄板プロンプト」を作る</span>
     <span class="c30-meta">約 15 分</span>
   </a>
-  <a class="c30-door w4" href="%E3%83%81%E3%83%BC%E3%83%A0%E3%81%A7%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%E3%82%92%E4%BA%A4%E6%8F%9B%E3%81%99%E3%82%8B_DAY-25.html">
+  <a class="c30-door w4" href="./contents/copilot-chat/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%A7%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%E3%82%92%E4%BA%A4%E6%8F%9B%E3%81%99%E3%82%8B_DAY-25.html">
     <span class="c30-num"><b>25</b><span>DAY</span></span>
     <span class="c30-title">チームでプロンプトを交換する</span>
     <span class="c30-meta">約 15 分 ＋ 共有 10 分</span>
   </a>
-  <a class="c30-door w5" href="%E7%B9%B0%E3%82%8A%E8%BF%94%E3%81%97%E6%A5%AD%E5%8B%99%E3%82%921%E3%81%A4%E9%81%B8%E3%81%B6_DAY-26.html">
+  <a class="c30-door w5" href="./contents/copilot-chat/%E7%B9%B0%E3%82%8A%E8%BF%94%E3%81%97%E6%A5%AD%E5%8B%99%E3%82%921%E3%81%A4%E9%81%B8%E3%81%B6_DAY-26.html">
     <span class="c30-num"><b>26</b><span>DAY</span></span>
     <span class="c30-title">繰り返し業務を1つ選ぶ</span>
     <span class="c30-meta">約 10 分</span>
   </a>
-  <a class="c30-door w5" href="%E8%BB%BD%E9%87%8FAgent%20Builder%E4%BD%93%E9%A8%93_DAY-27.html">
+  <a class="c30-door w5" href="./contents/copilot-chat/%E8%BB%BD%E9%87%8FAgent%20Builder%E4%BD%93%E9%A8%93_DAY-27.html">
     <span class="c30-num"><b>27</b><span>DAY</span></span>
     <span class="c30-title">軽量Agent Builder体験</span>
     <span class="c30-meta">約 20 分</span>
   </a>
-  <a class="c30-door w5" href="Copilot%E3%81%AA%E3%81%97%E3%81%A7%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%84%E3%81%9F%E6%96%B9%E6%B3%95%E3%81%A8%E6%AF%94%E8%BC%83%E3%81%99%E3%82%8B_DAY-28.html">
+  <a class="c30-door w5" href="./contents/copilot-chat/Copilot%E3%81%AA%E3%81%97%E3%81%A7%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%84%E3%81%9F%E6%96%B9%E6%B3%95%E3%81%A8%E6%AF%94%E8%BC%83%E3%81%99%E3%82%8B_DAY-28.html">
     <span class="c30-num"><b>28</b><span>DAY</span></span>
     <span class="c30-title">Copilotなしで行っていた方法と比較する</span>
     <span class="c30-meta">約 15 分</span>
   </a>
-  <a class="c30-door w5" href="%E8%87%AA%E5%88%86%E3%81%AE30%E6%97%A5%E9%96%93%E3%81%AE%E4%BE%A1%E5%80%A4%E3%82%92%E3%81%BE%E3%81%A8%E3%82%81%E3%82%8B_DAY-29.html">
+  <a class="c30-door w5" href="./contents/copilot-chat/%E8%87%AA%E5%88%86%E3%81%AE30%E6%97%A5%E9%96%93%E3%81%AE%E4%BE%A1%E5%80%A4%E3%82%92%E3%81%BE%E3%81%A8%E3%82%81%E3%82%8B_DAY-29.html">
     <span class="c30-num"><b>29</b><span>DAY</span></span>
     <span class="c30-title">自分の30日間の価値をまとめる</span>
     <span class="c30-meta">約 15 分</span>
   </a>
-  <a class="c30-door w5 is-key" href="%E3%80%8C%E6%98%8E%E6%97%A5%E3%81%8B%E3%82%89Copilot%E3%81%8C%E3%81%AA%E3%81%8F%E3%81%AA%E3%81%A3%E3%81%9F%E3%82%89%E3%80%8D%E3%82%92%E8%80%83%E3%81%88%E3%82%8B_DAY-30.html">
+  <a class="c30-door w5 is-key" href="./contents/copilot-chat/%E3%80%8C%E6%98%8E%E6%97%A5%E3%81%8B%E3%82%89Copilot%E3%81%8C%E3%81%AA%E3%81%8F%E3%81%AA%E3%81%A3%E3%81%9F%E3%82%89%E3%80%8D%E3%82%92%E8%80%83%E3%81%88%E3%82%8B_DAY-30.html">
     <span class="c30-num"><b>30</b><span>DAY</span></span>
     <span class="c30-title">「明日からCopilotがなくなったら」を考える</span>
     <span class="c30-meta">約 20 分</span>
@@ -259,9 +259,9 @@ description: 30 日間で「自分の仕事」に Copilot を溶かし込む体�
 ## 続けるコツ
 
 - **新しい扉は週 3 回**くらいで十分です。残りの日は、気に入ったプロンプトを繰り返し使ってください。
-- 効いたプロンプトは保存して、毎営業日使えるようにします（[朝または夕方のプロンプトを定型化する｜DAY-12](%E6%9C%9D%E3%81%BE%E3%81%9F%E3%81%AF%E5%A4%95%E6%96%B9%E3%81%AE%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%E3%82%92%E5%AE%9A%E5%9E%8B%E5%8C%96%E3%81%99%E3%82%8B_DAY-12.html)）。
+- 効いたプロンプトは保存して、毎営業日使えるようにします（[朝または夕方のプロンプトを定型化する｜DAY-12](./contents/copilot-chat/%E6%9C%9D%E3%81%BE%E3%81%9F%E3%81%AF%E5%A4%95%E6%96%B9%E3%81%AE%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%E3%82%92%E5%AE%9A%E5%9E%8B%E5%8C%96%E3%81%99%E3%82%8B_DAY-12.html)）。
 - 週に 1 回、チームのチャネルに「今週いちばん良かった 1 件」を投稿します。
-- 時間短縮は**自分で計測**します。Copilot に見積もらせないでください（[Copilotなしで行っていた方法と比較する｜DAY-28](Copilot%E3%81%AA%E3%81%97%E3%81%A7%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%84%E3%81%9F%E6%96%B9%E6%B3%95%E3%81%A8%E6%AF%94%E8%BC%83%E3%81%99%E3%82%8B_DAY-28.html)）。
+- 時間短縮は**自分で計測**します。Copilot に見積もらせないでください（[Copilotなしで行っていた方法と比較する｜DAY-28](./contents/copilot-chat/Copilot%E3%81%AA%E3%81%97%E3%81%A7%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%84%E3%81%9F%E6%96%B9%E6%B3%95%E3%81%A8%E6%AF%94%E8%BC%83%E3%81%99%E3%82%8B_DAY-28.html)）。
 
 ---
 
@@ -269,8 +269,8 @@ description: 30 日間で「自分の仕事」に Copilot を溶かし込む体�
 
 - 自分の実データを使います。共有・公開する成果物に機密情報が含まれていないか、必ず確認してください。
 - 利用できる機能は、ライセンスとテナント設定によって異なります。
-- Excel の体験（[Excelデータから示唆を得る｜DAY-19](Excel%E3%83%87%E3%83%BC%E3%82%BF%E3%81%8B%E3%82%89%E7%A4%BA%E5%94%86%E3%82%92%E5%BE%97%E3%82%8B_DAY-19.html)）は、ファイルを OneDrive に保存し AutoSave を有効にする必要があります。
-- エージェントの作成・共有（[軽量Agent Builder体験｜DAY-27](%E8%BB%BD%E9%87%8FAgent%20Builder%E4%BD%93%E9%A8%93_DAY-27.html)）は、管理者設定・テナント構成・ライセンスによって可否が異なります。事前に管理者へ確認してください。
+- Excel の体験（[Excelデータから示唆を得る｜DAY-19](./contents/copilot-chat/Excel%E3%83%87%E3%83%BC%E3%82%BF%E3%81%8B%E3%82%89%E7%A4%BA%E5%94%86%E3%82%92%E5%BE%97%E3%82%8B_DAY-19.html)）は、ファイルを OneDrive に保存し AutoSave を有効にする必要があります。
+- エージェントの作成・共有（[軽量Agent Builder体験｜DAY-27](./contents/copilot-chat/%E8%BB%BD%E9%87%8FAgent%20Builder%E4%BD%93%E9%A8%93_DAY-27.html)）は、管理者設定・テナント構成・ライセンスによって可否が異なります。事前に管理者へ確認してください。
 - ハンズオンが難しい回は、ファシリテーターのデモを見ながら進めてください。
 
 ---
