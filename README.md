@@ -80,7 +80,7 @@
 |---|---|
 | 26 | [繰り返し業務を1つ選ぶ｜DAY-26](./contents/copilot-chat/繰り返し業務を1つ選ぶ_DAY-26.md) |
 | 27 | [軽量Agent Builder体験｜DAY-27](./contents/copilot-chat/軽量Agent%20Builder体験_DAY-27.md) |
-| 28 | [Copilotなしで行っていた方法と比較する｜DAY-28](./contents/copilot-chat/Copilotなしで行っていた方法と比較する_DAY-28.md) |
+| 28 | [ホワイトボードの写真から議事録を作るAgent作成｜DAY-28](./contents/copilot-chat/ホワイトボード写真から議事録とスライドを作るエージェント_AGENT-01.md) |
 | 29 | [自分の30日間の価値をまとめる｜DAY-29](./contents/copilot-chat/自分の30日間の価値をまとめる_DAY-29.md) |
 | 30 | [「明日からCopilotがなくなったら」を考える｜DAY-30](./contents/copilot-chat/「明日からCopilotがなくなったら」を考える_DAY-30.md) |
 
