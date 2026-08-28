@@ -47,7 +47,7 @@
 | 7 | [文章を「相手に伝わる形」へ変換する｜DAY-07](./contents/copilot-chat/文章を「相手に伝わる形」へ変換する_DAY-07.md) |
 | 8 | [メール返信を3パターン作る｜DAY-08](./contents/copilot-chat/メール返信を3パターン作る_DAY-08.md) |
 | 9 | [会議後のアクションを自分用に再整理する｜DAY-09](./contents/copilot-chat/会議後のアクションを自分用に再整理する_DAY-09.md) |
-| 10 | [見落としている依頼を探す｜DAY-10](./contents/copilot-chat/見落としている依頼を探す_DAY-10.md) |
+| 10 | [この画面は何なのかを撮って聞く｜DAY-10](./contents/copilot-chat/この画面は何かを撮って聞く_SHOT-02.md) |
 | 11 | [1日の終わりをCopilotで締める｜DAY-11](./contents/copilot-chat/1日の終わりをCopilotで締める_DAY-11.md) |
 | 12 | [朝または夕方のプロンプトを定型化する｜DAY-12](./contents/copilot-chat/朝または夕方のプロンプトを定型化する_DAY-12.md) |
 
