@@ -205,9 +205,9 @@ description: 30 日間で「自分の仕事」に Copilot を溶かし込む体�
     <span class="c30-title">軽量Agent Builder体験</span>
     <span class="c30-meta">約 20 分</span>
   </a>
-  <a class="c30-door w5" href="./contents/copilot-chat/Copilot%E3%81%AA%E3%81%97%E3%81%A7%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%84%E3%81%9F%E6%96%B9%E6%B3%95%E3%81%A8%E6%AF%94%E8%BC%83%E3%81%99%E3%82%8B_DAY-28.html">
+  <a class="c30-door w5" href="./contents/copilot-chat/ホワイトボード写真から議事録とスライドを作るエージェント_AGENT-01.html">
     <span class="c30-num"><b>28</b><span>DAY</span></span>
-    <span class="c30-title">Copilotなしで行っていた方法と比較する</span>
+    <span class="c30-title">ホワイトボード写真から議事録を作るエージェント</span>
     <span class="c30-meta">約 15 分</span>
   </a>
   <a class="c30-door w5" href="./contents/copilot-chat/%E8%87%AA%E5%88%86%E3%81%AE30%E6%97%A5%E9%96%93%E3%81%AE%E4%BE%A1%E5%80%A4%E3%82%92%E3%81%BE%E3%81%A8%E3%82%81%E3%82%8B_DAY-29.html">
