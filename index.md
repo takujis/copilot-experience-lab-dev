@@ -95,9 +95,9 @@ description: 30 日間で「自分の仕事」に Copilot を溶かし込む体�
     <span class="c30-title">Week 1の驚きを言語化する</span>
     <span class="c30-meta">約 10 分 ＋ 共有 5 分</span>
   </a>
-  <a class="c30-door w2" href="./contents/copilot-chat/%E6%9C%AA%E5%87%A6%E7%90%86%E3%83%A1%E3%83%BC%E3%83%AB%E3%82%92%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%95%B4%E7%90%86%E3%81%99%E3%82%8B_DAY-06.html">
+  <a class="c30-door w2" href="./contents/copilot-chat/この画面は何かを撮って聞く_SHOT-02.html">
     <span class="c30-num"><b>06</b><span>DAY</span></span>
-    <span class="c30-title">未処理メールをまとめて整理する</span>
+    <span class="c30-title">この画面は何なの？を撮って聞く</span>
     <span class="c30-meta">約 10 分</span>
   </a>
   <a class="c30-door w2" href="./contents/copilot-chat/%E6%96%87%E7%AB%A0%E3%82%92%E3%80%8C%E7%9B%B8%E6%89%8B%E3%81%AB%E4%BC%9D%E3%82%8F%E3%82%8B%E5%BD%A2%E3%80%8D%E3%81%B8%E5%A4%89%E6%8F%9B%E3%81%99%E3%82%8B_DAY-07.html">
