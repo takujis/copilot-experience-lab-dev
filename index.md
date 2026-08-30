@@ -3,25 +3,24 @@ layout: default
 title: Copilot Experience Lab
 description: 自分の仕事で試す、Microsoft 365 Copilot 体験ラボ
 
-# 扉（カード）はここに書いた groups の順に、
-# contents/<dir>/ 配下の実ファイルから自動生成されます。
-# コンテンツを追加・リネームしても index.md の修正は不要です。
+# 扉（カード）は、この groups の順に contents/<dir>/ 配下の実ファイルから
+# 自動生成されます。コンテンツを追加・リネームしても index.md の修正は不要です。
 #
-# 各コンテンツ .md の front matter で、見え方を調整できます（すべて任意）:
+# 各コンテンツ .md の front matter で見え方を調整できます（すべて任意）:
 #   title:    カードの見出し（未指定ならファイル名から生成）
 #   subtitle: 見出し下の一文
-#   minutes:  所要分数（例: 10 → 「約 10 分」）
+#   minutes:  所要分数（例: 10 -> 「約 10 分」）
 #   duration: 自由記述の所要（minutes より優先）
 #   key:      true にすると ★ が付きます
 groups:
   - dir: "00-setup"
     cls: "g0"
     label: "Setup"
-    lead: "はじめる前に　環境と進め方をそろえる"
+    lead: "はじめる前に。環境と進め方をそろえる"
   - dir: "01-copilot-chat"
     cls: "g1"
     label: "Copilot Chat"
-    lead: "まず驚く　自分のデータで対話する"
+    lead: "まず驚く。自分のデータで対話する"
   - dir: "02-microsoft365-copilot"
     cls: "g2"
     label: "Microsoft 365 Copilot"
@@ -29,7 +28,7 @@ groups:
   - dir: "03-outlook-teams"
     cls: "g3"
     label: "Outlook / Teams"
-    lead: "毎日の面倒を減らす　メールと会議"
+    lead: "毎日の面倒を減らす。メールと会議"
   - dir: "04-excel"
     cls: "g4"
     label: "Excel"
@@ -56,10 +55,10 @@ groups:
     lead: "役割別の使いどころ"
 ---
 
-<!-- GitHub Pages（Jekyll）用のトップページです。
+<!-- GitHub Pages (Jekyll 3.x) 用トップページ。
      扉のリンクは site.pages / site.static_files から自動生成しているため、
-     ファイル名を index.md に書き写す必要はありません。
-     リポジトリ上（github.com）で直接見る場合は README.md の一覧をご利用ください。 -->
+     ファイル名をここに書き写す必要はありません。
+     Jekyll 4 専用の記法（where_exp の and/or、push フィルター）は使っていません。 -->
 
 <style>
 .cel-hero{padding:2rem 1.6rem;margin:0 0 1.6rem;border-radius:14px;color:#fff;
@@ -87,7 +86,7 @@ groups:
 .cel-door{display:block;position:relative;padding:.9rem .9rem 1rem;border-radius:12px;text-decoration:none;
   border:1px solid #e3e6ea;background:#fff;color:#1b1b1b;overflow:hidden;
   transition:transform .15s ease,box-shadow .15s ease,border-color .15s ease;}
-.cel-door:before{content:"";position:absolute;inset:0 auto 0 0;width:5px;background:var(--c);}
+.cel-door:before{content:"";position:absolute;top:0;bottom:0;left:0;width:5px;background:var(--c);}
 .cel-door:hover{transform:translateY(-3px);box-shadow:0 8px 18px rgba(16,32,60,.14);
   border-color:var(--c);text-decoration:none;}
 .cel-num{display:flex;align-items:baseline;gap:.35rem;font-weight:700;color:var(--c);letter-spacing:.02em;}
@@ -96,8 +95,7 @@ groups:
 .cel-title{display:block;margin:.5rem 0 .3rem;font-size:.86rem;line-height:1.45;font-weight:600;color:#1b1b1b;}
 .cel-subtitle{display:block;margin:0 0 .5rem;font-size:.73rem;line-height:1.45;color:#3f4757;}
 .cel-meta{font-size:.72rem;color:#61697a;}
-.cel-door.is-key:after{content:"★";position:absolute;top:.6rem;right:.7rem;font-size:.8rem;color:var(--c);}
-.cel-empty{font-size:.8rem;color:#8a91a0;padding:.6rem 0;}
+.cel-door.is-key:after{content:"\2605";position:absolute;top:.6rem;right:.7rem;font-size:.8rem;color:var(--c);}
 
 .cel-start{border:1px solid #e3e6ea;border-radius:12px;padding:1rem 1.2rem;background:#fafbfc;}
 .cel-start ol{margin:.4rem 0 0;padding-left:1.2rem;}
@@ -121,86 +119,129 @@ groups:
 順番どおりでなくて構いません。**開けたい扉から開けてください**。
 ★ の付いた扉は、期間中に何度も繰り返す価値のある体験です。
 
+{% comment %} front matter 付きページと素の .md を 1 つの配列にまとめる {% endcomment %}
+{% assign celall = site.pages | concat: site.static_files %}
+
+{% comment %} ---------- 凡例（件数付き） ---------- {% endcomment %}
+{% assign celtotal = 0 %}
 <ul class="cel-legend">
 {%- for g in page.groups -%}
   {%- assign dirkey = "contents/" | append: g.dir | append: "/" -%}
-  {%- assign gp = site.pages | where_exp: "p", "p.path contains dirkey" -%}
-  {%- assign gp = gp | where_exp: "p", "p.name != 'index.md' and p.name != 'README.md'" -%}
-  {%- assign gs = site.static_files | where_exp: "f", "f.path contains dirkey" -%}
-  {%- assign gs = gs | where_exp: "f", "f.extname == '.md'" -%}
-  {%- assign gs = gs | where_exp: "f", "f.name != 'index.md' and f.name != 'README.md'" -%}
-  {%- assign gc = gp.size | plus: gs.size -%}
-  {%- if gc > 0 -%}
-  <li class="{{ g.cls }}"><i></i><a href="#{{ g.dir }}">{{ g.label }}</a>（{{ gc }}）</li>
+  {%- assign pool = celall | where_exp: "p", "p.path contains dirkey" -%}
+  {%- assign cnt = 0 -%}
+  {%- for p in pool -%}
+    {%- assign ok = false -%}
+    {%- if p.extname -%}
+      {%- if p.extname == ".md" -%}{%- assign ok = true -%}{%- endif -%}
+    {%- else -%}
+      {%- assign ok = true -%}
+    {%- endif -%}
+    {%- if p.name == "index.md" -%}{%- assign ok = false -%}{%- endif -%}
+    {%- if p.name == "README.md" -%}{%- assign ok = false -%}{%- endif -%}
+    {%- if ok -%}{%- assign cnt = cnt | plus: 1 -%}{%- endif -%}
+  {%- endfor -%}
+  {%- assign celtotal = celtotal | plus: cnt -%}
+  {%- if cnt > 0 -%}
+  <li class="{{ g.cls }}"><i></i><a href="#{{ g.dir }}">{{ g.label }}</a>（{{ cnt }}）</li>
   {%- endif -%}
 {%- endfor -%}
 </ul>
 
+{% comment %} ---------- セクションごとの扉グリッド ---------- {% endcomment %}
 {% for g in page.groups %}
   {%- assign dirkey = "contents/" | append: g.dir | append: "/" -%}
+  {%- assign pool = celall | where_exp: "p", "p.path contains dirkey" -%}
 
-  {%- comment -%} 実ファイルを収集（front matter 付きは site.pages、素の .md は site.static_files） {%- endcomment -%}
-  {%- assign gp = site.pages | where_exp: "p", "p.path contains dirkey" -%}
-  {%- assign gp = gp | where_exp: "p", "p.name != 'index.md' and p.name != 'README.md'" -%}
-  {%- assign gs = site.static_files | where_exp: "f", "f.path contains dirkey" -%}
-  {%- assign gs = gs | where_exp: "f", "f.extname == '.md'" -%}
-  {%- assign gs = gs | where_exp: "f", "f.name != 'index.md' and f.name != 'README.md'" -%}
-  {%- assign items = gp | concat: gs -%}
+  {%- assign cnt = 0 -%}
+  {%- for p in pool -%}
+    {%- assign ok = false -%}
+    {%- if p.extname -%}
+      {%- if p.extname == ".md" -%}{%- assign ok = true -%}{%- endif -%}
+    {%- else -%}
+      {%- assign ok = true -%}
+    {%- endif -%}
+    {%- if p.name == "index.md" -%}{%- assign ok = false -%}{%- endif -%}
+    {%- if p.name == "README.md" -%}{%- assign ok = false -%}{%- endif -%}
+    {%- if ok -%}{%- assign cnt = cnt | plus: 1 -%}{%- endif -%}
+  {%- endfor -%}
 
-  {%- comment -%} ファイル名末尾の連番（例 _CHAT-05）で昇順に並べ替え {%- endcomment -%}
-  {%- assign ordered = "" | split: "," -%}
-  {%- assign seen = "" -%}
+  {%- if cnt > 0 -%}
+<section class="cel-sec {{ g.cls }}" id="{{ g.dir }}">
+  <h2><i></i>{{ g.label }}<em>{{ g.dir }} ／ {{ cnt }} 件</em></h2>
+  <p class="cel-lead">{{ g.lead }}</p>
+  <div class="cel-grid">
+
+  {%- comment -%} 第 1 パス：ファイル名末尾の連番（例 _CHAT-05）で昇順に描画 {%- endcomment -%}
   {%- for n in (0..59) -%}
     {%- assign pad = n | prepend: "0" | slice: -2, 2 -%}
-    {%- for p in items -%}
-      {%- assign stem = p.name | split: "." | first -%}
-      {%- assign code = stem | split: "_" | last -%}
-      {%- assign num = code | split: "-" | last -%}
-      {%- if num == pad -%}
-        {%- assign ordered = ordered | push: p -%}
-        {%- assign seen = seen | append: "|" | append: p.name | append: "|" -%}
+    {%- for p in pool -%}
+      {%- assign ok = false -%}
+      {%- if p.extname -%}
+        {%- if p.extname == ".md" -%}{%- assign ok = true -%}{%- endif -%}
+      {%- else -%}
+        {%- assign ok = true -%}
+      {%- endif -%}
+      {%- if p.name == "index.md" -%}{%- assign ok = false -%}{%- endif -%}
+      {%- if p.name == "README.md" -%}{%- assign ok = false -%}{%- endif -%}
+      {%- if ok -%}
+        {%- assign stem = p.name | replace: ".markdown", "" | replace: ".md", "" | replace: ".html", "" -%}
+        {%- assign seg = stem | split: "_" -%}
+        {%- assign code = seg | last -%}
+        {%- assign cp = code | split: "-" -%}
+        {%- assign num = cp | last -%}
+        {%- assign chk = num | plus: 0 | prepend: "0" | slice: -2, 2 -%}
+        {%- if cp.size > 1 and chk == num and num == pad -%}
+        {%- assign kind = cp | first -%}
+        {%- assign fallback = seg | first -%}
+    <a class="cel-door {{ g.cls }}{% if p.key %} is-key{% endif %}" href="{{ p.url | default: p.path | relative_url }}">
+      <span class="cel-num"><b>{{ num }}</b><span>{{ kind }}</span></span>
+      <span class="cel-title">{{ p.title | default: fallback }}</span>
+      {%- if p.subtitle %}<span class="cel-subtitle">{{ p.subtitle }}</span>{% endif -%}
+      <span class="cel-meta">{% if p.duration %}{{ p.duration }}{% elsif p.minutes %}約 {{ p.minutes }} 分{% else %}体験コンテンツ{% endif %}</span>
+    </a>
+        {%- endif -%}
       {%- endif -%}
     {%- endfor -%}
   {%- endfor -%}
-  {%- for p in items -%}
-    {%- assign mark = p.name | prepend: "|" | append: "|" -%}
-    {%- unless seen contains mark -%}{%- assign ordered = ordered | push: p -%}{%- endunless -%}
+
+  {%- comment -%} 第 2 パス：連番を持たないファイルを末尾に描画 {%- endcomment -%}
+  {%- for p in pool -%}
+    {%- assign ok = false -%}
+    {%- if p.extname -%}
+      {%- if p.extname == ".md" -%}{%- assign ok = true -%}{%- endif -%}
+    {%- else -%}
+      {%- assign ok = true -%}
+    {%- endif -%}
+    {%- if p.name == "index.md" -%}{%- assign ok = false -%}{%- endif -%}
+    {%- if p.name == "README.md" -%}{%- assign ok = false -%}{%- endif -%}
+    {%- if ok -%}
+      {%- assign stem = p.name | replace: ".markdown", "" | replace: ".md", "" | replace: ".html", "" -%}
+      {%- assign seg = stem | split: "_" -%}
+      {%- assign code = seg | last -%}
+      {%- assign cp = code | split: "-" -%}
+      {%- assign num = cp | last -%}
+      {%- assign chk = num | plus: 0 | prepend: "0" | slice: -2, 2 -%}
+      {%- assign numbered = false -%}
+      {%- if cp.size > 1 and chk == num -%}{%- assign numbered = true -%}{%- endif -%}
+      {%- unless numbered -%}
+    <a class="cel-door {{ g.cls }}{% if p.key %} is-key{% endif %}" href="{{ p.url | default: p.path | relative_url }}">
+      <span class="cel-num"><b>+</b><span>DOOR</span></span>
+      <span class="cel-title">{{ p.title | default: stem }}</span>
+      {%- if p.subtitle %}<span class="cel-subtitle">{{ p.subtitle }}</span>{% endif -%}
+      <span class="cel-meta">{% if p.duration %}{{ p.duration }}{% elsif p.minutes %}約 {{ p.minutes }} 分{% else %}体験コンテンツ{% endif %}</span>
+    </a>
+      {%- endunless -%}
+    {%- endif -%}
   {%- endfor -%}
 
-  {%- if ordered.size > 0 -%}
-<section class="cel-sec {{ g.cls }}" id="{{ g.dir }}">
-  <h2><i></i>{{ g.label }}<em>{{ g.dir }}／{{ ordered.size }} 件</em></h2>
-  <p class="cel-lead">{{ g.lead }}</p>
-  <div class="cel-grid">
-  {%- for p in ordered -%}
-    {%- assign stem = p.name | split: "." | first -%}
-    {%- assign parts = stem | split: "_" -%}
-    {%- assign code = parts | last -%}
-    {%- assign cparts = code | split: "-" -%}
-    {%- if parts.size > 1 and cparts.size > 1 -%}
-      {%- assign badge = cparts | last -%}
-      {%- assign kind = cparts | first -%}
-      {%- assign fallback = parts | first -%}
-    {%- else -%}
-      {%- assign badge = forloop.index | prepend: "0" | slice: -2, 2 -%}
-      {%- assign kind = "DOOR" -%}
-      {%- assign fallback = stem -%}
-    {%- endif -%}
-    <a class="cel-door {{ g.cls }}{% if p.key %} is-key{% endif %}" href="{{ p.url | default: p.path | relative_url }}">
-      <span class="cel-num"><b>{{ badge }}</b><span>{{ kind }}</span></span>
-      <span class="cel-title">{{ p.title | default: fallback }}</span>
-      {%- if p.subtitle %}<span class="cel-subtitle">{{ p.subtitle }}</span>{%- endif %}
-      <span class="cel-meta">
-      {%- if p.duration -%}{{ p.duration }}
-      {%- elsif p.minutes -%}約 {{ p.minutes }} 分
-      {%- else -%}体験コンテンツ{%- endif -%}
-      </span>
-    </a>
-  {%- endfor -%}
   </div>
 </section>
   {%- endif -%}
 {% endfor %}
+
+{% if celtotal == 0 %}
+<p class="cel-meta">扉が 1 つも見つかりませんでした。<code>contents/</code> 配下のフォルダ名が、この index.md の front matter にある <code>groups:</code> の <code>dir:</code> と一致しているかご確認ください。</p>
+{% endif %}
 
 ---
 
@@ -224,15 +265,19 @@ groups:
 
 単発で試すだけでなく、期間を決めて続ける進め方も用意しています。
 
+{% assign progs = site.pages | where_exp: "p", "p.path contains 'programs/'" %}
 <div class="cel-grid">
-{%- assign progs = site.pages | where_exp: "p", "p.path contains 'programs/'" -%}
-{%- assign progs = progs | where_exp: "p", "p.name == 'README.md' or p.name == 'index.md'" -%}
 {%- for p in progs -%}
   {%- assign segs = p.path | split: "/" -%}
-  {%- assign slug = segs[1] -%}
+  {%- assign show = false -%}
   {%- if segs.size > 2 -%}
+    {%- if p.name == "README.md" -%}{%- assign show = true -%}{%- endif -%}
+    {%- if p.name == "index.md" -%}{%- assign show = true -%}{%- endif -%}
+  {%- endif -%}
+  {%- if show -%}
+  {%- assign slug = segs[1] -%}
   <a class="cel-door g2" href="{{ p.url | relative_url }}">
-    <span class="cel-num"><b>▶</b><span>PROGRAM</span></span>
+    <span class="cel-num"><b>&#9654;</b><span>PROGRAM</span></span>
     <span class="cel-title">{{ p.title | default: slug }}</span>
     <span class="cel-meta">{{ p.description | default: slug }}</span>
   </a>
