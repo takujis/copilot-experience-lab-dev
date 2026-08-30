@@ -72,38 +72,38 @@ description: 30 日間で「自分の仕事」に Copilot を溶かし込む体�
 
 <div class="c30-grid">
   <a class="c30-door w1" href="./contents/copilot-chat/Copilot%E3%81%AB%E8%87%AA%E5%88%86%E3%81%AE%E7%8F%BE%E5%9C%A8%E5%9C%B0%E3%82%92%E8%81%9E%E3%81%8F_DAY-01.html">
-    <span class="c30-num"><b>01</b><span>DAY</span></span>
+    <span class="c30-num"><b>01</b><span>DOOR</span></span>
     <span class="c30-title">Copilotに自分の現在地を聞く </span>
 　　<span class="c30-subtitle">「いま抱えている仕事、5件」— 一言も説明していないのに</span>   
     <span class="c30-meta">約 10 分</span>
   </a>
   <a class="c30-door w1 is-key" href="./contents/copilot-chat/%E5%BF%99%E3%81%97%E3%81%84%E6%9C%9D%E3%82%923%E5%88%86%E3%81%A7%E6%95%B4%E7%90%86%E3%81%99%E3%82%8B_DAY-02.html">
-    <span class="c30-num"><b>02</b><span>DAY</span></span>
+    <span class="c30-num"><b>02</b><span>DOOR</span></span>
     <span class="c30-title">忙しい朝を3分で整理する</span>
     <span class="c30-meta">約 5 分</span>
   </a>
   <a class="c30-door w1" href="./contents/copilot-chat/%E9%95%B7%E3%81%84%E3%83%A1%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%AC%E3%83%83%E3%83%89%E3%81%8B%E3%82%89%E7%B5%90%E8%AB%96%E3%81%A0%E3%81%91%E3%82%92%E5%BE%97%E3%82%8B_DAY-03.html">
-    <span class="c30-num"><b>03</b><span>DAY</span></span>
+    <span class="c30-num"><b>03</b><span>DOOR</span></span>
     <span class="c30-title">長いメールスレッドから結論だけを得る</span>
     <span class="c30-meta">約 10 分</span>
   </a>
   <a class="c30-door w1 is-key" href="./contents/copilot-chat/%E4%BC%9A%E8%AD%B0%E5%89%8D%E3%81%AE%E3%80%8C%E4%BD%95%E3%82%92%E8%A9%B1%E3%81%9B%E3%81%B0%E3%82%88%E3%81%84%E3%81%8B%E3%80%8D%E3%82%92%E4%BD%9C%E3%82%8B_DAY-04.html">
-    <span class="c30-num"><b>04</b><span>DAY</span></span>
+    <span class="c30-num"><b>04</b><span>DOOR</span></span>
     <span class="c30-title">会議前の「何を話せばよいか」を作る</span>
     <span class="c30-meta">約 10 分</span>
   </a>
   <a class="c30-door w1" href="./contents/copilot-chat/Week%201%E3%81%AE%E9%A9%9A%E3%81%8D%E3%82%92%E8%A8%80%E8%AA%9E%E5%8C%96%E3%81%99%E3%82%8B_DAY-05.html">
-    <span class="c30-num"><b>05</b><span>DAY</span></span>
+    <span class="c30-num"><b>05</b><span>DOOR</span></span>
     <span class="c30-title">Week 1の驚きを言語化する</span>
     <span class="c30-meta">約 10 分 ＋ 共有 5 分</span>
   </a>
   <a class="c30-door w2" href="./contents/copilot-chat/この画面は何かを撮って聞く_SHOT-02.html">
-    <span class="c30-num"><b>06</b><span>DAY</span></span>
+    <span class="c30-num"><b>06</b><span>DOOR</span></span>
     <span class="c30-title">この画面は何なの？を撮って聞く</span>
     <span class="c30-meta">約 10 分</span>
   </a>
   <a class="c30-door w2" href="./contents/copilot-chat/%E6%96%87%E7%AB%A0%E3%82%92%E3%80%8C%E7%9B%B8%E6%89%8B%E3%81%AB%E4%BC%9D%E3%82%8F%E3%82%8B%E5%BD%A2%E3%80%8D%E3%81%B8%E5%A4%89%E6%8F%9B%E3%81%99%E3%82%8B_DAY-07.html">
-    <span class="c30-num"><b>07</b><span>DAY</span></span>
+    <span class="c30-num"><b>07</b><span>DOOR</span></span>
     <span class="c30-title">文章を「相手に伝わる形」へ変換する</span>
     <span class="c30-meta">約 5 分</span>
   </a>
