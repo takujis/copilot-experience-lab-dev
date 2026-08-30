@@ -73,7 +73,7 @@ description: 30 日間で「自分の仕事」に Copilot を溶かし込む体�
 <div class="c30-grid">
   <a class="c30-door w1" href="./contents/copilot-chat/Copilot%E3%81%AB%E8%87%AA%E5%88%86%E3%81%AE%E7%8F%BE%E5%9C%A8%E5%9C%B0%E3%82%92%E8%81%9E%E3%81%8F_DAY-01.html">
     <span class="c30-num"><b>01</b><span>DOOR</span></span>
-    <span class="c30-title">Copilotに自分の現在地を聞く </span>
+    <span class="c30-title">Copilotはもうあなたの仕事を知っている。 </span>
 　　<span class="c30-subtitle">「いま抱えている仕事、5件」— 一言も説明していないのに</span>   
     <span class="c30-meta">約 10 分</span>
   </a>
