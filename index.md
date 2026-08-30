@@ -32,7 +32,7 @@ description: 30 日間で「自分の仕事」に Copilot を溶かし込む体�
 .c30-num{display:flex;align-items:baseline;gap:.35rem;font-weight:700;color:var(--c);letter-spacing:.02em;}
 .c30-num b{font-size:1.6rem;line-height:1;}
 .c30-num span{font-size:.72rem;opacity:.75;}
-.c30-title{display:block;margin:.5rem 0 .55rem;font-size:.86rem;line-height:1.45;font-weight:600;color:#1b1b1b;}
+.c30-title{display:block;margin:.5rem 0 .35rem;font-size:.86rem;line-height:1.45;font-weight:600;color:#1b1b1b;}
 .c30-subtitle{display:block;margin: 0rem 0 .55rem;font-size:.75rem;line-height:1.45;font-weight:600;color:#1b1b1b;}     
 .c30-meta{font-size:.72rem;color:#61697a;}
 .c30-door.is-key:after{content:"★";position:absolute;top:.6rem;right:.7rem;font-size:.8rem;color:var(--c);}
