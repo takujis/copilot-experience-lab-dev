@@ -80,13 +80,15 @@ Microsoft 365 Copilot ライセンスが提示するのは、**ユーザーが�
 | 秘密度ラベル | 秘密度ラベルや文書取り扱いポリシーなど、既存の Microsoft 365 の保護は Copilot 利用時も引き続き有効 | Word、Excel、OneDrive、SharePoint 上の秘密度ラベル、保護された文書の表示、元ファイルの保護 |
 | 監査とガバナンス | 組織の構成とライセンスに応じて、Copilot のやり取りはログ記録・統制の対象にできる | Copilot のアクティビティ履歴、保持設定、監査／eDiscovery、Microsoft Purview（有効な場合） |
 
-<!--
 ---
+
+<!--
 ## WATCH
 
 `../assets/SETUP-01/` に動画 / GIF を配置してください（アカウント切り替え、サンプルデータ配置）。
--->
 ---
+
+-->
 
 ## REFLECT — 振り返り
 
