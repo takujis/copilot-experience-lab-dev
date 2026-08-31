@@ -58,11 +58,11 @@
 |---|---|
 | 13 | [既存資料を要約する｜DAY-13](./contents/copilot-chat/既存資料を要約する_DAY-13.md) |
 | 14 | [複数資料を比較する｜DAY-14](./contents/copilot-chat/複数資料を比較する_DAY-14.md) |
-| 15 | [箇条書きから文書の初稿を作る｜DAY-15](./contents/copilot-chat/箇条書きから文書の初稿を作る_DAY-15.md) |
+| 15 | [箇条書きから文書の初稿を作る｜DAY-15](./contents/copilot-chat/DAY-15_箇条書きから文書の初稿を作る.md) |
 | 16 | [長い文書をレビューしてもらう｜DAY-16](./contents/copilot-chat/長い文書をレビューしてもらう_DAY-16.md) |
-| 17 | [Wordからプレゼンテーションの構成を作る｜DAY-17](./contents/copilot-chat/Wordからプレゼンテーションの構成を作る_DAY-17.md) |
-| 18 | [自社紹介を視覚化する｜DAY-18](./contents/copilot-chat/自社紹介を視覚化する_DAY-18.md) |
-| 19 | [Excelデータから示唆を得る｜DAY-19](./contents/copilot-chat/Excelデータから示唆を得る_DAY-19.md) |
+| 17 | [Wordからプレゼンテーションの構成を作る｜DAY-17](./contents/copilot-chat/DAY-17_Wordからプレゼンテーションの構成を作る.md) |
+| 18 | [自社紹介を視覚化する｜DAY-18](./contents/copilot-chat/DAY-18_自社紹介を視覚化する.md) |
+| 19 | [Excelデータから示唆を得る｜DAY-19](./contents/copilot-chat/DAY-19_Excelデータから示唆を得る.md) |
 
 ### Week 4：単発の作業から「仕事の流れ」へ広げる
 
@@ -73,7 +73,7 @@
 | 22 | [「最新状況を教えて」を自分の案件で使う｜DAY-22](./contents/copilot-chat/「最新状況を教えて」を自分の案件で使う_DAY-22.md) |
 | 23 | [役割別のユースケースを作る｜DAY-23](./contents/copilot-chat/役割別のユースケースを作る_DAY-23.md) |
 | 24 | [自分専用の「鉄板プロンプト」を作る｜DAY-24](./contents/copilot-chat/自分専用の「鉄板プロンプト」を作る_DAY-24.md) |
-| 25 | [チームでプロンプトを交換する｜DAY-25](./contents/copilot-chat/チームでプロンプトを交換する_DAY-25.md) |
+| 25 | [チームでプロンプトを交換する｜DAY-25](./contents/copilot-chat/DAY-25_チームでプロンプトを交換する.md) |
 
 ### Final Week：自分専用化し、なくなった場合の損失を見える化する
 
@@ -82,7 +82,7 @@
 | 26 | [繰り返し業務を1つ選ぶ｜DAY-26](./contents/copilot-chat/繰り返し業務を1つ選ぶ_DAY-26.md) |
 | 27 | [軽量Agent Builder体験｜DAY-27](./contents/copilot-chat/軽量Agent%20Builder体験_DAY-27.md) |
 | 28 | [ホワイトボードの写真から議事録を作るAgent作成｜DAY-28](./contents/copilot-chat/ホワイトボード写真から議事録とスライドを作るエージェント_AGENT-01.md) |
-| 29 | [自分の30日間の価値をまとめる｜DAY-29](./contents/copilot-chat/自分の30日間の価値をまとめる_DAY-29.md) |
+| 29 | [自分の30日間の価値をまとめる｜DAY-29](./contents/copilot-chat/DAY-29_自分の30日間の価値をまとめる.md) |
 | 30 | [「明日からCopilotがなくなったら」を考える｜DAY-30](./contents/copilot-chat/「明日からCopilotがなくなったら」を考える_DAY-30.md) |
 
 ---

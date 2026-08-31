@@ -21,36 +21,32 @@ groups:
     cls: "g1"
     label: "Copilot Chat"
     lead: "まず驚く。自分のデータで対話する"
-  - dir: "02-microsoft365-copilot"
+  - dir: "02-outlook-teams"
     cls: "g2"
-    label: "Microsoft 365 Copilot"
-    lead: "仕事の文脈をまたいで使う"
-  - dir: "03-outlook-teams"
-    cls: "g3"
     label: "Outlook / Teams"
     lead: "毎日の面倒を減らす。メールと会議"
-  - dir: "04-excel"
-    cls: "g4"
+  - dir: "03-excel"
+    cls: "g3"
     label: "Excel"
     lead: "数字から示唆を取り出す"
-  - dir: "05-word"
-    cls: "g5"
+  - dir: "04-word"
+    cls: "g4"
     label: "Word"
     lead: "文書をゼロから書かない"
-  - dir: "06-researcher-analyst"
-    cls: "g6"
+  - dir: "05-researcher-analyst"
+    cls: "g5"
     label: "Researcher / Analyst"
     lead: "調べる・分析するを任せる"
-  - dir: "07-agent-builder"
-    cls: "g7"
+  - dir: "06-agent-builder"
+    cls: "g6"
     label: "Agent Builder"
     lead: "自分専用のエージェントを作る"
-  - dir: "08-powerpoint"
-    cls: "g8"
+  - dir: "07-powerpoint"
+    cls: "g7"
     label: "PowerPoint"
     lead: "伝わる資料に仕上げる"
-  - dir: "09-personas"
-    cls: "g9"
+  - dir: "08-personas"
+    cls: "g8"
     label: "Personas"
     lead: "役割別の使いどころ"
 ---
@@ -171,7 +167,7 @@ groups:
   <p class="cel-lead">{{ g.lead }}</p>
   <div class="cel-grid">
 
-  {%- comment -%} 第 1 パス：ファイル名末尾の連番（例 _CHAT-05）で昇順に描画 {%- endcomment -%}
+  {%- comment -%} 第 1 パス：ファイル名先頭の連番（例 CHAT-05_）で昇順に描画 {%- endcomment -%}
   {%- for n in (0..59) -%}
     {%- assign pad = n | prepend: "0" | slice: -2, 2 -%}
     {%- for p in pool -%}
@@ -186,13 +182,13 @@ groups:
       {%- if ok -%}
         {%- assign stem = p.name | replace: ".markdown", "" | replace: ".md", "" | replace: ".html", "" -%}
         {%- assign seg = stem | split: "_" -%}
-        {%- assign code = seg | last -%}
+        {%- assign code = seg | first -%}
         {%- assign cp = code | split: "-" -%}
         {%- assign num = cp | last -%}
         {%- assign chk = num | plus: 0 | prepend: "0" | slice: -2, 2 -%}
         {%- if cp.size > 1 and chk == num and num == pad -%}
         {%- assign kind = cp | first -%}
-        {%- assign fallback = seg | first -%}
+        {%- assign fallback = stem | remove_first: code | remove_first: "_" -%}
     <a class="cel-door {{ g.cls }}{% if p.key %} is-key{% endif %}" href="{{ p.url | default: p.path | relative_url }}">
       <span class="cel-num"><b>{{ num }}</b><span>{{ kind }}</span></span>
       <span class="cel-title">{{ p.title | default: fallback }}</span>
@@ -217,7 +213,7 @@ groups:
     {%- if ok -%}
       {%- assign stem = p.name | replace: ".markdown", "" | replace: ".md", "" | replace: ".html", "" -%}
       {%- assign seg = stem | split: "_" -%}
-      {%- assign code = seg | last -%}
+      {%- assign code = seg | first -%}
       {%- assign cp = code | split: "-" -%}
       {%- assign num = cp | last -%}
       {%- assign chk = num | plus: 0 | prepend: "0" | slice: -2, 2 -%}

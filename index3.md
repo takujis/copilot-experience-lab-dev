@@ -117,7 +117,7 @@ description: 30 日間で「自分の仕事」に Copilot を溶かし込む体�
     <span class="c30-title">会議後のアクションを自分用に再整理する</span>
     <span class="c30-meta">約 10 分</span>
   </a>
-  <a class="c30-door w2" href="./contents/copilot-chat/%E8%A6%8B%E8%90%BD%E3%81%A8%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E4%BE%9D%E9%A0%BC%E3%82%92%E6%8E%A2%E3%81%99_DAY-10.html">
+  <a class="c30-door w2" href="./contents/copilot-chat/DAY-10_%E8%A6%8B%E8%90%BD%E3%81%A8%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E4%BE%9D%E9%A0%BC%E3%82%92%E6%8E%A2%E3%81%99.html">
     <span class="c30-num"><b>10</b><span>DAY</span></span>
     <span class="c30-title">見落としている依頼を探す</span>
     <span class="c30-meta">約 10 分</span>
@@ -142,7 +142,7 @@ description: 30 日間で「自分の仕事」に Copilot を溶かし込む体�
     <span class="c30-title">複数資料を比較する</span>
     <span class="c30-meta">約 10 分</span>
   </a>
-  <a class="c30-door w3" href="./contents/copilot-chat/%E7%AE%87%E6%9D%A1%E6%9B%B8%E3%81%8D%E3%81%8B%E3%82%89%E6%96%87%E6%9B%B8%E3%81%AE%E5%88%9D%E7%A8%BF%E3%82%92%E4%BD%9C%E3%82%8B_DAY-15.html">
+  <a class="c30-door w3" href="./contents/copilot-chat/DAY-15_%E7%AE%87%E6%9D%A1%E6%9B%B8%E3%81%8D%E3%81%8B%E3%82%89%E6%96%87%E6%9B%B8%E3%81%AE%E5%88%9D%E7%A8%BF%E3%82%92%E4%BD%9C%E3%82%8B.html">
     <span class="c30-num"><b>15</b><span>DAY</span></span>
     <span class="c30-title">箇条書きから文書の初稿を作る</span>
     <span class="c30-meta">約 15 分</span>
@@ -152,17 +152,17 @@ description: 30 日間で「自分の仕事」に Copilot を溶かし込む体�
     <span class="c30-title">長い文書をレビューしてもらう</span>
     <span class="c30-meta">約 10 分</span>
   </a>
-  <a class="c30-door w3" href="./contents/copilot-chat/Word%E3%81%8B%E3%82%89%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E6%A7%8B%E6%88%90%E3%82%92%E4%BD%9C%E3%82%8B_DAY-17.html">
+  <a class="c30-door w3" href="./contents/copilot-chat/DAY-17_Word%E3%81%8B%E3%82%89%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E6%A7%8B%E6%88%90%E3%82%92%E4%BD%9C%E3%82%8B.html">
     <span class="c30-num"><b>17</b><span>DAY</span></span>
     <span class="c30-title">Wordからプレゼンテーションの構成を作る</span>
     <span class="c30-meta">約 15 分</span>
   </a>
-  <a class="c30-door w3 is-key" href="./contents/copilot-chat/%E8%87%AA%E7%A4%BE%E7%B4%B9%E4%BB%8B%E3%82%92%E8%A6%96%E8%A6%9A%E5%8C%96%E3%81%99%E3%82%8B_DAY-18.html">
+  <a class="c30-door w3 is-key" href="./contents/copilot-chat/DAY-18_%E8%87%AA%E7%A4%BE%E7%B4%B9%E4%BB%8B%E3%82%92%E8%A6%96%E8%A6%9A%E5%8C%96%E3%81%99%E3%82%8B.html">
     <span class="c30-num"><b>18</b><span>DAY</span></span>
     <span class="c30-title">自社紹介を視覚化する</span>
     <span class="c30-meta">約 15 分</span>
   </a>
-  <a class="c30-door w3" href="./contents/copilot-chat/Excel%E3%83%87%E3%83%BC%E3%82%BF%E3%81%8B%E3%82%89%E7%A4%BA%E5%94%86%E3%82%92%E5%BE%97%E3%82%8B_DAY-19.html">
+  <a class="c30-door w3" href="./contents/copilot-chat/DAY-19_Excel%E3%83%87%E3%83%BC%E3%82%BF%E3%81%8B%E3%82%89%E7%A4%BA%E5%94%86%E3%82%92%E5%BE%97%E3%82%8B.html">
     <span class="c30-num"><b>19</b><span>DAY</span></span>
     <span class="c30-title">Excelデータから示唆を得る</span>
     <span class="c30-meta">約 15 分</span>
@@ -192,7 +192,7 @@ description: 30 日間で「自分の仕事」に Copilot を溶かし込む体�
     <span class="c30-title">自分専用の「鉄板プロンプト」を作る</span>
     <span class="c30-meta">約 15 分</span>
   </a>
-  <a class="c30-door w4" href="./contents/copilot-chat/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%A7%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%E3%82%92%E4%BA%A4%E6%8F%9B%E3%81%99%E3%82%8B_DAY-25.html">
+  <a class="c30-door w4" href="./contents/copilot-chat/DAY-25_%E3%83%81%E3%83%BC%E3%83%A0%E3%81%A7%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%E3%82%92%E4%BA%A4%E6%8F%9B%E3%81%99%E3%82%8B.html">
     <span class="c30-num"><b>25</b><span>DAY</span></span>
     <span class="c30-title">チームでプロンプトを交換する</span>
     <span class="c30-meta">約 15 分 ＋ 共有 10 分</span>
@@ -212,7 +212,7 @@ description: 30 日間で「自分の仕事」に Copilot を溶かし込む体�
     <span class="c30-title">ホワイトボード写真から議事録を作るエージェント</span>
     <span class="c30-meta">約 15 分</span>
   </a>
-  <a class="c30-door w5" href="./contents/copilot-chat/%E8%87%AA%E5%88%86%E3%81%AE30%E6%97%A5%E9%96%93%E3%81%AE%E4%BE%A1%E5%80%A4%E3%82%92%E3%81%BE%E3%81%A8%E3%82%81%E3%82%8B_DAY-29.html">
+  <a class="c30-door w5" href="./contents/copilot-chat/DAY-29_%E8%87%AA%E5%88%86%E3%81%AE30%E6%97%A5%E9%96%93%E3%81%AE%E4%BE%A1%E5%80%A4%E3%82%92%E3%81%BE%E3%81%A8%E3%82%81%E3%82%8B.html">
     <span class="c30-num"><b>29</b><span>DAY</span></span>
     <span class="c30-title">自分の30日間の価値をまとめる</span>
     <span class="c30-meta">約 15 分</span>
@@ -263,7 +263,7 @@ description: 30 日間で「自分の仕事」に Copilot を溶かし込む体�
 - **新しい扉は週 3 回**くらいで十分です。残りの日は、気に入ったプロンプトを繰り返し使ってください。
 - 効いたプロンプトは保存して、毎営業日使えるようにします（[朝または夕方のプロンプトを定型化する｜DAY-12](./contents/copilot-chat/%E6%9C%9D%E3%81%BE%E3%81%9F%E3%81%AF%E5%A4%95%E6%96%B9%E3%81%AE%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%E3%82%92%E5%AE%9A%E5%9E%8B%E5%8C%96%E3%81%99%E3%82%8B_DAY-12.html)）。
 - 週に 1 回、チームのチャネルに「今週いちばん良かった 1 件」を投稿します。
-- 時間短縮は**自分で計測**します。Copilot に見積もらせないでください（[Copilotなしで行っていた方法と比較する｜DAY-28](./contents/copilot-chat/Copilot%E3%81%AA%E3%81%97%E3%81%A7%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%84%E3%81%9F%E6%96%B9%E6%B3%95%E3%81%A8%E6%AF%94%E8%BC%83%E3%81%99%E3%82%8B_DAY-28.html)）。
+- 時間短縮は**自分で計測**します。Copilot に見積もらせないでください（[Copilotなしで行っていた方法と比較する｜DAY-28](./contents/copilot-chat/DAY-28_Copilot%E3%81%AA%E3%81%97%E3%81%A7%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%84%E3%81%9F%E6%96%B9%E6%B3%95%E3%81%A8%E6%AF%94%E8%BC%83%E3%81%99%E3%82%8B.html)）。
 
 ---
 
@@ -271,7 +271,7 @@ description: 30 日間で「自分の仕事」に Copilot を溶かし込む体�
 
 - 自分の実データを使います。共有・公開する成果物に機密情報が含まれていないか、必ず確認してください。
 - 利用できる機能は、ライセンスとテナント設定によって異なります。
-- Excel の体験（[Excelデータから示唆を得る｜DAY-19](./contents/copilot-chat/Excel%E3%83%87%E3%83%BC%E3%82%BF%E3%81%8B%E3%82%89%E7%A4%BA%E5%94%86%E3%82%92%E5%BE%97%E3%82%8B_DAY-19.html)）は、ファイルを OneDrive に保存し AutoSave を有効にする必要があります。
+- Excel の体験（[Excelデータから示唆を得る｜DAY-19](./contents/copilot-chat/DAY-19_Excel%E3%83%87%E3%83%BC%E3%82%BF%E3%81%8B%E3%82%89%E7%A4%BA%E5%94%86%E3%82%92%E5%BE%97%E3%82%8B.html)）は、ファイルを OneDrive に保存し AutoSave を有効にする必要があります。
 - エージェントの作成・共有（[軽量Agent Builder体験｜DAY-27](./contents/copilot-chat/%E8%BB%BD%E9%87%8FAgent%20Builder%E4%BD%93%E9%A8%93_DAY-27.html)）は、管理者設定・テナント構成・ライセンスによって可否が異なります。事前に管理者へ確認してください。
 - ハンズオンが難しい回は、ファシリテーターのデモを見ながら進めてください。
 

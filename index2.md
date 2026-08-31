@@ -83,7 +83,7 @@ description: 30 日間で「自分の仕事」に Copilot を溶かし込む体�
 
 [<span class="c30-num"><b>09</b><em>DAY</em></span><span class="c30-star">★</span><br><span class="c30-title">会議後のアクションを自分用に再整理する</span><br><span class="c30-meta"><span class="c30-dot">🔵</span> 約 10 分</span>](会議後のアクションを自分用に再整理する_DAY-09.md)
 
-[<span class="c30-num"><b>10</b><em>DAY</em></span><br><span class="c30-title">見落としている依頼を探す</span><br><span class="c30-meta"><span class="c30-dot">🔵</span> 約 10 分</span>](見落としている依頼を探す_DAY-10.md)
+[<span class="c30-num"><b>10</b><em>DAY</em></span><br><span class="c30-title">見落としている依頼を探す</span><br><span class="c30-meta"><span class="c30-dot">🔵</span> 約 10 分</span>](contents/copilot-chat/DAY-10_見落としている依頼を探す.md)
 
 [<span class="c30-num"><b>11</b><em>DAY</em></span><br><span class="c30-title">1日の終わりをCopilotで締める</span><br><span class="c30-meta"><span class="c30-dot">🔵</span> 約 5 分</span>](1日の終わりをCopilotで締める_DAY-11.md)
 
@@ -93,15 +93,15 @@ description: 30 日間で「自分の仕事」に Copilot を溶かし込む体�
 
 [<span class="c30-num"><b>14</b><em>DAY</em></span><br><span class="c30-title">複数資料を比較する</span><br><span class="c30-meta"><span class="c30-dot">🟢</span> 約 10 分</span>](複数資料を比較する_DAY-14.md)
 
-[<span class="c30-num"><b>15</b><em>DAY</em></span><br><span class="c30-title">箇条書きから文書の初稿を作る</span><br><span class="c30-meta"><span class="c30-dot">🟢</span> 約 15 分</span>](箇条書きから文書の初稿を作る_DAY-15.md)
+[<span class="c30-num"><b>15</b><em>DAY</em></span><br><span class="c30-title">箇条書きから文書の初稿を作る</span><br><span class="c30-meta"><span class="c30-dot">🟢</span> 約 15 分</span>](contents/copilot-chat/DAY-15_箇条書きから文書の初稿を作る.md)
 
 [<span class="c30-num"><b>16</b><em>DAY</em></span><br><span class="c30-title">長い文書をレビューしてもらう</span><br><span class="c30-meta"><span class="c30-dot">🟢</span> 約 10 分</span>](長い文書をレビューしてもらう_DAY-16.md)
 
-[<span class="c30-num"><b>17</b><em>DAY</em></span><br><span class="c30-title">Wordからプレゼンテーションの構成を作る</span><br><span class="c30-meta"><span class="c30-dot">🟢</span> 約 15 分</span>](Wordからプレゼンテーションの構成を作る_DAY-17.md)
+[<span class="c30-num"><b>17</b><em>DAY</em></span><br><span class="c30-title">Wordからプレゼンテーションの構成を作る</span><br><span class="c30-meta"><span class="c30-dot">🟢</span> 約 15 分</span>](contents/copilot-chat/DAY-17_Wordからプレゼンテーションの構成を作る.md)
 
-[<span class="c30-num"><b>18</b><em>DAY</em></span><span class="c30-star">★</span><br><span class="c30-title">自社紹介を視覚化する</span><br><span class="c30-meta"><span class="c30-dot">🟢</span> 約 15 分</span>](自社紹介を視覚化する_DAY-18.md)
+[<span class="c30-num"><b>18</b><em>DAY</em></span><span class="c30-star">★</span><br><span class="c30-title">自社紹介を視覚化する</span><br><span class="c30-meta"><span class="c30-dot">🟢</span> 約 15 分</span>](contents/copilot-chat/DAY-18_自社紹介を視覚化する.md)
 
-[<span class="c30-num"><b>19</b><em>DAY</em></span><br><span class="c30-title">Excelデータから示唆を得る</span><br><span class="c30-meta"><span class="c30-dot">🟢</span> 約 15 分</span>](Excelデータから示唆を得る_DAY-19.md)
+[<span class="c30-num"><b>19</b><em>DAY</em></span><br><span class="c30-title">Excelデータから示唆を得る</span><br><span class="c30-meta"><span class="c30-dot">🟢</span> 約 15 分</span>](contents/copilot-chat/DAY-19_Excelデータから示唆を得る.md)
 
 [<span class="c30-num"><b>20</b><em>DAY</em></span><br><span class="c30-title">会議前から会議後までを一連で使う</span><br><span class="c30-meta"><span class="c30-dot">🟣</span> 会議前 10 分 ＋ 会議後 10 分</span>](会議前から会議後までを一連で使う_DAY-20.md)
 
@@ -113,15 +113,15 @@ description: 30 日間で「自分の仕事」に Copilot を溶かし込む体�
 
 [<span class="c30-num"><b>24</b><em>DAY</em></span><span class="c30-star">★</span><br><span class="c30-title">自分専用の「鉄板プロンプト」を作る</span><br><span class="c30-meta"><span class="c30-dot">🟣</span> 約 15 分</span>](自分専用の「鉄板プロンプト」を作る_DAY-24.md)
 
-[<span class="c30-num"><b>25</b><em>DAY</em></span><br><span class="c30-title">チームでプロンプトを交換する</span><br><span class="c30-meta"><span class="c30-dot">🟣</span> 約 15 分 ＋ 共有 10 分</span>](チームでプロンプトを交換する_DAY-25.md)
+[<span class="c30-num"><b>25</b><em>DAY</em></span><br><span class="c30-title">チームでプロンプトを交換する</span><br><span class="c30-meta"><span class="c30-dot">🟣</span> 約 15 分 ＋ 共有 10 分</span>](contents/copilot-chat/DAY-25_チームでプロンプトを交換する.md)
 
 [<span class="c30-num"><b>26</b><em>DAY</em></span><br><span class="c30-title">繰り返し業務を1つ選ぶ</span><br><span class="c30-meta"><span class="c30-dot">🔴</span> 約 10 分</span>](繰り返し業務を1つ選ぶ_DAY-26.md)
 
 [<span class="c30-num"><b>27</b><em>DAY</em></span><br><span class="c30-title">軽量Agent Builder体験</span><br><span class="c30-meta"><span class="c30-dot">🔴</span> 約 20 分</span>](<軽量Agent Builder体験_DAY-27.md>)
 
-[<span class="c30-num"><b>28</b><em>DAY</em></span><br><span class="c30-title">Copilotなしで行っていた方法と比較する</span><br><span class="c30-meta"><span class="c30-dot">🔴</span> 約 15 分</span>](Copilotなしで行っていた方法と比較する_DAY-28.md)
+[<span class="c30-num"><b>28</b><em>DAY</em></span><br><span class="c30-title">Copilotなしで行っていた方法と比較する</span><br><span class="c30-meta"><span class="c30-dot">🔴</span> 約 15 分</span>](contents/copilot-chat/DAY-28_Copilotなしで行っていた方法と比較する.md)
 
-[<span class="c30-num"><b>29</b><em>DAY</em></span><br><span class="c30-title">自分の30日間の価値をまとめる</span><br><span class="c30-meta"><span class="c30-dot">🔴</span> 約 15 分</span>](自分の30日間の価値をまとめる_DAY-29.md)
+[<span class="c30-num"><b>29</b><em>DAY</em></span><br><span class="c30-title">自分の30日間の価値をまとめる</span><br><span class="c30-meta"><span class="c30-dot">🔴</span> 約 15 分</span>](contents/copilot-chat/DAY-29_自分の30日間の価値をまとめる.md)
 
 [<span class="c30-num"><b>30</b><em>DAY</em></span><span class="c30-star">★</span><br><span class="c30-title">「明日からCopilotがなくなったら」を考える</span><br><span class="c30-meta"><span class="c30-dot">🔴</span> 約 20 分</span>](「明日からCopilotがなくなったら」を考える_DAY-30.md)
 
@@ -166,7 +166,7 @@ description: 30 日間で「自分の仕事」に Copilot を溶かし込む体�
 - **新しい扉は週 3 回**くらいで十分です。残りの日は、気に入ったプロンプトを繰り返し使ってください。
 - 効いたプロンプトは保存して、毎営業日使えるようにします（[朝または夕方のプロンプトを定型化する｜DAY-12](朝または夕方のプロンプトを定型化する_DAY-12.md)）。
 - 週に 1 回、チームのチャネルに「今週いちばん良かった 1 件」を投稿します。
-- 時間短縮は**自分で計測**します。Copilot に見積もらせないでください（[Copilotなしで行っていた方法と比較する｜DAY-28](Copilotなしで行っていた方法と比較する_DAY-28.md)）。
+- 時間短縮は**自分で計測**します。Copilot に見積もらせないでください（[Copilotなしで行っていた方法と比較する｜DAY-28](contents/copilot-chat/DAY-28_Copilotなしで行っていた方法と比較する.md)）。
 
 ---
 
@@ -174,7 +174,7 @@ description: 30 日間で「自分の仕事」に Copilot を溶かし込む体�
 
 - 自分の実データを使います。共有・公開する成果物に機密情報が含まれていないか、必ず確認してください。
 - 利用できる機能は、ライセンスとテナント設定によって異なります。
-- Excel の体験（[Excelデータから示唆を得る｜DAY-19](Excelデータから示唆を得る_DAY-19.md)）は、ファイルを OneDrive に保存し AutoSave を有効にする必要があります。
+- Excel の体験（[Excelデータから示唆を得る｜DAY-19](contents/copilot-chat/DAY-19_Excelデータから示唆を得る.md)）は、ファイルを OneDrive に保存し AutoSave を有効にする必要があります。
 - エージェントの作成・共有（[軽量Agent Builder体験｜DAY-27](<軽量Agent Builder体験_DAY-27.md>)）は、管理者設定・テナント構成・ライセンスによって可否が異なります。事前に管理者へ確認してください。
 - ハンズオンが難しい回は、ファシリテーターのデモを見ながら進めてください。
 
