@@ -8,6 +8,7 @@
 | **利用** | Microsoft 365 Copilot Chat（Work）、Outlook / Word / Excel / PowerPoint / Teams の Copilot、Agent Builder |
 | **入力** | サンプル企業の架空データではなく、**参加者自身がアクセス権を持つメール、会議、チャット、文書** |
 | **成果** | 個人の活用トップ 5、実業務の Before / After（実測値）、成果物リンク、継続判断の材料 |
+
 > **実施条件**：Microsoft 365 Copilot のライセンスと、自分のメール・会議・ファイルへのアクセスが必要です。
 > ライセンス、テナント設定、管理者ポリシーによって利用できる機能は異なります。特に Excel（Day 19）と Agent Builder（Day 27）は事前確認が必要です。
 

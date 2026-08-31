@@ -7,6 +7,7 @@
 | **利用** | Microsoft 365 Copilot Chat（Work） |
 | **入力** | `lakeshore-prior-season-strategy.docx`、`lakeshore-brand-playbook.docx` |
 | **成果** | 競合比較表 ＋ レイクショア固有のポジショニング提言（4〜5 文） |
+
 > **実施条件**：Microsoft 365 Copilot とレイクショアのファイルにアクセスできる場合のみハンズオンで実施します。
 > そうでない場合は、ファシリテーターのデモを見ながら進めてください。
 

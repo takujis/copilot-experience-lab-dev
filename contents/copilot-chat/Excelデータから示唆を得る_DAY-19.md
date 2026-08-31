@@ -7,6 +7,7 @@
 | **利用** | Excel の Copilot ／ Microsoft 365 Copilot Chat（Work） |
 | **入力** | OneDrive または SharePoint 上の、自分がアクセスできる Excel ファイル |
 | **成果** | 列の説明、傾向・増減・外れ値、意思決定に使える示唆、追加で必要なデータ |
+
 > **実施条件**：Excel ファイルは OneDrive に保存し、AutoSave を有効にする必要があります。
 > Copilot in Excel の利用条件や表示される機能は、ライセンスとテナント設定によって異なる場合があります。ハンズオンが難しい場合は、ファシリテーターのデモを見ながら進めてください。
 
