@@ -74,7 +74,7 @@ description: 30 日間で「自分の仕事」に Copilot を溶かし込む体�
   <h1>Copilot in 30</h1>
   <p>1 つずつ、扉を開けるように試す 30 日間。<br>
   使うのはサンプルデータではなく、<strong>あなた自身のメール・会議・チャット・ファイル</strong>です。</p>
-  <p class="c30-tag">1 つあたり 5〜20 分 &nbsp;·&nbsp; Microsoft 365 Copilot</p>
+  <p class="c30-tag">1 つあたり 5〜20 分 &nbsp;·&nbsp; Microsoft Copilot</p>
 </div>
 
 <div class="c30-note">
@@ -126,7 +126,7 @@ description: 30 日間で「自分の仕事」に Copilot を溶かし込む体�
     <span class="c30-subtitle">一言も説明していないのに</span>
     <span class="c30-meta">約 10 分</span>
   </a>
-  <a class="c30-door w1 is-key" href="../../contents/01-copilot-chat/CHAT-06_%E5%BF%99%E3%81%97%E3%81%84%E6%9C%9D%E3%82%923%E5%88%86%E3%81%A7%E6%95%B4%E7%90%86%E3%81%99%E3%82%8B.html">
+  <a class="c30-door w1 is-key" href="../../contents/01-copilot-chat/CHAT-07_%E5%BF%99%E3%81%97%E3%81%84%E6%9C%9D%E3%82%923%E5%88%86%E3%81%A7%E6%95%B4%E7%90%86%E3%81%99%E3%82%8B.html">
     <span class="c30-num"><b>04</b><span>DOOR</span></span>
     <span class="c30-title">忙しい朝を3分で整理する</span>
     <span class="c30-subtitle">毎朝の「仕事開始ボタン」を作る</span>
@@ -224,7 +224,7 @@ description: 30 日間で「自分の仕事」に Copilot を溶かし込む体�
   <p class="c30-secnote">ここは全部やる必要はありません。上の 2 つを試したら、あとは<strong>自分の役割に近いものを 1〜2 つ</strong>選んでください。副題に想定する役割を書いてあります。</p>
 </section>
 <div class="c30-grid w3">
-  <a class="c30-door w3 is-key" href="../../contents/01-copilot-chat/CHAT-17_%E6%97%A2%E5%AD%98%E8%B3%87%E6%96%99%E3%82%92%E8%A6%81%E7%B4%84%E3%81%99%E3%82%8B.html">
+  <a class="c30-door w3 is-key" href="../../contents/01-copilot-chat/CHAT-18_%E6%97%A2%E5%AD%98%E8%B3%87%E6%96%99%E3%82%92%E8%A6%81%E7%B4%84%E3%81%99%E3%82%8B.html">
     <span class="c30-num"><b>18</b><span>DOOR</span></span>
     <span class="c30-title">既存資料を要約する</span>
     <span class="c30-subtitle">まずこれ：説明できる状態まで一気に</span>
@@ -242,7 +242,7 @@ description: 30 日間で「自分の仕事」に Copilot を溶かし込む体�
     <span class="c30-subtitle">IT・情シス</span>
     <span class="c30-meta">約 10 分</span>
   </a>
-  <a class="c30-door w3" href="../../contents/01-copilot-chat/CHAT-05_%E8%87%AA%E7%A4%BE%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%92%E6%A0%B9%E6%8B%A0%E3%81%AB%E7%AB%B6%E5%90%88%E5%88%86%E6%9E%90%E3%82%92%E8%87%AA%E7%A4%BE%E8%A6%96%E7%82%B9%E3%81%B8%E5%BC%95%E3%81%8D%E4%B8%8A%E3%81%92%E3%82%8B.html">
+  <a class="c30-door w3" href="../../contents/01-copilot-chat/CHAT-06_%E8%87%AA%E7%A4%BE%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%92%E6%A0%B9%E6%8B%A0%E3%81%AB%E7%AB%B6%E5%90%88%E5%88%86%E6%9E%90%E3%82%92%E8%87%AA%E7%A4%BE%E8%A6%96%E7%82%B9%E3%81%B8%E5%BC%95%E3%81%8D%E4%B8%8A%E3%81%92%E3%82%8B.html">
     <span class="c30-num"><b>21</b><span>DOOR</span></span>
     <span class="c30-title">自社ファイルを根拠に競合分析を自社視点へ引き上げる</span>
     <span class="c30-subtitle">全社視点・戦略</span>
@@ -266,7 +266,7 @@ description: 30 日間で「自分の仕事」に Copilot を溶かし込む体�
     <span class="c30-subtitle">営業・提案</span>
     <span class="c30-meta">約 10 分</span>
   </a>
-  <a class="c30-door w3" href="../../contents/01-copilot-chat/CHAT-15_%E8%A4%87%E6%95%B0%E8%B3%87%E6%96%99%E3%82%92%E6%AF%94%E8%BC%83%E3%81%99%E3%82%8B.html">
+  <a class="c30-door w3" href="../../contents/01-copilot-chat/CHAT-16_%E8%A4%87%E6%95%B0%E8%B3%87%E6%96%99%E3%82%92%E6%AF%94%E8%BC%83%E3%81%99%E3%82%8B.html">
     <span class="c30-num"><b>25</b><span>DOOR</span></span>
     <span class="c30-title">複数資料を比較する</span>
     <span class="c30-subtitle">営業・提案・調達</span>
@@ -278,13 +278,13 @@ description: 30 日間で「自分の仕事」に Copilot を溶かし込む体�
     <span class="c30-subtitle">データ・経営管理</span>
     <span class="c30-meta">約 15 分</span>
   </a>
-  <a class="c30-door w3" href="../../contents/05-researcher-analyst/AGT-02_Analyst%E3%81%AB%E3%83%AA%E3%82%B9%E3%82%AF%E3%81%AE%E9%AB%98%E3%81%84SKU%E7%89%B9%E5%AE%9A%E3%82%92%E5%A7%94%E4%BB%BB%E3%81%99%E3%82%8B.html">
+  <a class="c30-door w3" href="../../contents/06-researcher-analyst/AGT-02_Analyst%E3%81%AB%E3%83%AA%E3%82%B9%E3%82%AF%E3%81%AE%E9%AB%98%E3%81%84SKU%E7%89%B9%E5%AE%9A%E3%82%92%E5%A7%94%E4%BB%BB%E3%81%99%E3%82%8B.html">
     <span class="c30-num"><b>27</b><span>DOOR</span></span>
     <span class="c30-title">Analystにリスクの高いSKU特定を委任する</span>
     <span class="c30-subtitle">データ・経営管理</span>
     <span class="c30-meta">約 10 分</span>
   </a>
-  <a class="c30-door w3" href="../../contents/05-researcher-analyst/AGT-01_Researcher%E3%81%AB%E5%B8%82%E5%A0%B4%E8%AA%BF%E6%9F%BB%E3%83%96%E3%83%AA%E3%83%BC%E3%83%95%E3%82%92%E5%A7%94%E4%BB%BB%E3%81%99%E3%82%8B.html">
+  <a class="c30-door w3" href="../../contents/06-researcher-analyst/AGT-01_Researcher%E3%81%AB%E5%B8%82%E5%A0%B4%E8%AA%BF%E6%9F%BB%E3%83%96%E3%83%AA%E3%83%BC%E3%83%95%E3%82%92%E5%A7%94%E4%BB%BB%E3%81%99%E3%82%8B.html">
     <span class="c30-num"><b>28</b><span>DOOR</span></span>
     <span class="c30-title">Researcherに市場調査ブリーフを委任する</span>
     <span class="c30-subtitle">調査・戦略</span>
@@ -303,7 +303,7 @@ description: 30 日間で「自分の仕事」に Copilot を溶かし込む体�
   <p class="c30-secnote">ここがこのプログラムの山場です。新しい使い方を増やすのではなく、<strong>もともと毎週・毎月やっている作業</strong>を 1 つに絞り、残りの期間は必ず Copilot から始めます。</p>
 </section>
 <div class="c30-grid w4">
-  <a class="c30-door w4 is-key" href="../../contents/06-agent-builder/AGB-01_%E7%B9%B0%E3%82%8A%E8%BF%94%E3%81%97%E6%A5%AD%E5%8B%99%E3%82%92%E6%B4%97%E3%81%84%E5%87%BA%E3%81%97%E3%81%A61%E4%BB%B6%E3%81%AB%E7%B5%9E%E3%82%8B.html">
+  <a class="c30-door w4 is-key" href="../../contents/07-agent-builder/AGB-01_%E7%B9%B0%E3%82%8A%E8%BF%94%E3%81%97%E6%A5%AD%E5%8B%99%E3%82%92%E6%B4%97%E3%81%84%E5%87%BA%E3%81%97%E3%81%A61%E4%BB%B6%E3%81%AB%E7%B5%9E%E3%82%8B.html">
     <span class="c30-num"><b>30</b><span>DOOR</span></span>
     <span class="c30-title">繰り返し業務を洗い出して1件に絞る</span>
     <span class="c30-subtitle">「私の定番」を決める</span>
@@ -338,31 +338,31 @@ description: 30 日間で「自分の仕事」に Copilot を溶かし込む体�
   <p class="c30-secnote">決めた定番を、毎回ゼロから指示しなくてよい形にします。エージェントが作れない環境でも、<strong>鉄板プロンプト</strong>を持てば同じ効果が得られます。</p>
 </section>
 <div class="c30-grid w5">
-  <a class="c30-door w5 is-key" href="../../contents/06-agent-builder/AGB-02_%E8%BB%BD%E9%87%8FAgent%20Builder%E4%BD%93%E9%A8%93.html">
+  <a class="c30-door w5 is-key" href="../../contents/07-agent-builder/AGB-02_%E8%BB%BD%E9%87%8FAgent%20Builder%E4%BD%93%E9%A8%93.html">
     <span class="c30-num"><b>32</b><span>DOOR</span></span>
     <span class="c30-title">軽量Agent Builder体験</span>
     <span class="c30-subtitle">まずは軽く成功させる</span>
     <span class="c30-meta">約 25 分</span>
   </a>
-  <a class="c30-door w5 is-key" href="../../contents/06-agent-builder/AGB-04_%E9%A1%A7%E5%AE%A2%E3%83%95%E3%82%A9%E3%83%AD%E3%83%BC%E3%82%A2%E3%83%83%E3%83%97%E7%94%A8%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E3%82%92%E4%BD%9C%E3%82%8B.html">
+  <a class="c30-door w5 is-key" href="../../contents/07-agent-builder/AGB-04_%E9%A1%A7%E5%AE%A2%E3%83%95%E3%82%A9%E3%83%AD%E3%83%BC%E3%82%A2%E3%83%83%E3%83%97%E7%94%A8%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E3%82%92%E4%BD%9C%E3%82%8B.html">
     <span class="c30-num"><b>33</b><span>DOOR</span></span>
     <span class="c30-title">顧客フォローアップ用エージェントを作る</span>
     <span class="c30-subtitle">参考例：この型を自分の定番に流用する</span>
     <span class="c30-meta">約 20 分</span>
   </a>
-  <a class="c30-door w5" href="../../contents/06-agent-builder/AGB-05_%E6%8F%90%E6%A1%88%E6%9B%B8%E4%BD%9C%E6%88%90%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E3%82%92%E4%BD%9C%E3%82%8B.html">
+  <a class="c30-door w5" href="../../contents/07-agent-builder/AGB-05_%E6%8F%90%E6%A1%88%E6%9B%B8%E4%BD%9C%E6%88%90%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E3%82%92%E4%BD%9C%E3%82%8B.html">
     <span class="c30-num"><b>34</b><span>DOOR</span></span>
     <span class="c30-title">提案書作成エージェントを作る</span>
     <span class="c30-subtitle">参考例：2 つ目のエージェント</span>
     <span class="c30-meta">約 15 分</span>
   </a>
-  <a class="c30-door w5" href="../../contents/06-agent-builder/AGB-03_%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%9C%E3%83%BC%E3%83%89%E5%86%99%E7%9C%9F%E3%81%8B%E3%82%89%E8%AD%B0%E4%BA%8B%E9%8C%B2%E3%81%A8%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89%E3%82%92%E4%BD%9C%E3%82%8B.html">
+  <a class="c30-door w5" href="../../contents/07-agent-builder/AGB-03_%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%9C%E3%83%BC%E3%83%89%E5%86%99%E7%9C%9F%E3%81%8B%E3%82%89%E8%AD%B0%E4%BA%8B%E9%8C%B2%E3%81%A8%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89%E3%82%92%E4%BD%9C%E3%82%8B.html">
     <span class="c30-num"><b>35</b><span>DOOR</span></span>
     <span class="c30-title">ホワイトボード写真から議事録とスライドを作るエージェント</span>
     <span class="c30-subtitle">共有会の見せ札に</span>
     <span class="c30-meta">約 30 分</span>
   </a>
-  <a class="c30-door w5 is-key" href="../../contents/01-copilot-chat/CHAT-16_%E8%87%AA%E5%88%86%E5%B0%82%E7%94%A8%E3%81%AE%E3%80%8C%E9%89%84%E6%9D%BF%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%E3%80%8D%E3%82%92%E4%BD%9C%E3%82%8B.html">
+  <a class="c30-door w5 is-key" href="../../contents/01-copilot-chat/CHAT-17_%E8%87%AA%E5%88%86%E5%B0%82%E7%94%A8%E3%81%AE%E3%80%8C%E9%89%84%E6%9D%BF%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%E3%80%8D%E3%82%92%E4%BD%9C%E3%82%8B.html">
     <span class="c30-num"><b>36</b><span>DOOR</span></span>
     <span class="c30-title">自分専用の「鉄板プロンプト」を作る</span>
     <span class="c30-subtitle">ここが「なくなると困る」の核</span>

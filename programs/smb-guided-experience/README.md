@@ -1,6 +1,6 @@
 # M365 Copilot + Agents SMB Guided Experience（日本語版）
 
-> このファイルは**ポインタ + 順番 + ルール**だけを持ちます。体験の中身は `content/` にあります。
+> このファイルは**ポインタ + 順番 + ルール**だけを持ちます。体験の中身は `contents/` にあります。
 
 - **対象**：SMB のお客様、および本ワークショップを実施するパートナー
 - **所要**：約 90 分（元教材の推奨時間。人数・アクセス状況で調整可）
@@ -16,7 +16,7 @@
 
 | 登場人物 | 役割 | 担当する体験 |
 |---|---|---|
-| 曽根拓海 | 商品企画部長 | CHAT-01 / CHAT-05 / XLS-01 |
+| 曽根拓海 | 商品企画部長 | CHAT-01 / CHAT-06 / XLS-01 |
 | 大沢澪 | マーケティング部長 | CHAT-02 / WRD-01 |
 | 遠藤淳也 | カスタマーサポート責任者 | CHAT-03 / AGB-04 |
 | 松吉優香 | パートナー連携責任者 | CHAT-04 / AGB-04 / AGB-05 |
@@ -52,7 +52,7 @@ AI が支援する 4 つのステージ：
 
 ### セクション 2 | 自分の仕事につながる — Microsoft 365 Copilot
 1. [メールとチャットから未対応のフォローアップを洗い出す](../../contents/02-outlook-teams/CATCH-01_メールとチャットから未対応のフォローアップを洗い出す.md)
-2. [自社ファイルを根拠に競合分析を自社視点へ引き上げる](../../contents/01-copilot-chat/CHAT-05_自社ファイルを根拠に競合分析を自社視点へ引き上げる.md)
+2. [自社ファイルを根拠に競合分析を自社視点へ引き上げる](../../contents/01-copilot-chat/CHAT-06_自社ファイルを根拠に競合分析を自社視点へ引き上げる.md)
 3. [売上データから地域別の弱点と価格施策を導く](../../contents/03-excel/XLS-01_売上データから地域別の弱点と価格施策を導く.md)
 4. [短いブリーフを10章のローンチ文書に展開する](../../contents/04-word/WRD-01_短いブリーフを10章のローンチ文書に展開する.md)
 5. [会議を要約しフォローアップ連絡文を作る](../../contents/02-outlook-teams/MTG-01_会議を要約しフォローアップ連絡文を作る.md)
@@ -60,14 +60,14 @@ AI が支援する 4 つのステージ：
 **必須**：2 つ完了 ／ **代替進行**：ライセンスやアクセスの状況に応じて、進行役によるデモに切り替える
 
 ### セクション 3 | 任せてみる — Agents
-1. [Researcherに市場調査ブリーフを委任する](../../contents/05-researcher-analyst/AGT-01_Researcherに市場調査ブリーフを委任する.md)
-2. [Analystにリスクの高いSKU特定を委任する](../../contents/05-researcher-analyst/AGT-02_Analystにリスクの高いSKU特定を委任する.md)
+1. [Researcherに市場調査ブリーフを委任する](../../contents/06-researcher-analyst/AGT-01_Researcherに市場調査ブリーフを委任する.md)
+2. [Analystにリスクの高いSKU特定を委任する](../../contents/06-researcher-analyst/AGT-02_Analystにリスクの高いSKU特定を委任する.md)
 
 **必須**：1 つ以上を体験またはデモ視聴
 
 ### セクション 4 | 自分のものにする — Agent Builder
-1. [顧客フォローアップ用エージェントを作る](../../contents/06-agent-builder/AGB-04_顧客フォローアップ用エージェントを作る.md)
-2. [提案書作成エージェントを作る](../../contents/06-agent-builder/AGB-05_提案書作成エージェントを作る.md)
+1. [顧客フォローアップ用エージェントを作る](../../contents/07-agent-builder/AGB-04_顧客フォローアップ用エージェントを作る.md)
+2. [提案書作成エージェントを作る](../../contents/07-agent-builder/AGB-05_提案書作成エージェントを作る.md)
 
 **必須**：AGB-04 ／ **選択**：AGB-05（時間があれば）
 
@@ -100,13 +100,13 @@ AI が支援する 4 つのステージ：
 
 ### レイクショア サンプルファイル
 
-- `lakeshore-prior-season-strategy.docx`（前シーズン戦略）
-- `lakeshore-brand-playbook.docx`（ブランド ガイダンス）
-- `lakeshore-q4-sales.xlsx`（Q4 売上データ）
-- `lakeshore-launch-brief-template.docx`（ローンチ ブリーフ雛形）
-- `northwind-outfitters-proposal.docx`（パートナー提案書）
-- `agent-knowledge-pack.docx`（エージェント用ナレッジ）
-- `customer-complaint-cases.xlsx`（任意・発展演習用）
+- [`lakeshore-prior-season-strategy.docx`](https://github.com/miookawa/copilot-experience-lab/releases/download/lakeshore-sample-data-ja-v1.0.0/lakeshore-prior-season-strategy.docx)（前シーズン戦略）
+- [`lakeshore-brand-playbook.docx`](https://github.com/miookawa/copilot-experience-lab/releases/download/lakeshore-sample-data-ja-v1.0.0/lakeshore-brand-playbook.docx)（ブランド ガイダンス）
+- [`lakeshore-q4-sales.xlsx`](https://github.com/miookawa/copilot-experience-lab/releases/download/lakeshore-sample-data-ja-v1.0.0/lakeshore-q4-sales.xlsx)（Q4 売上データ）
+- [`lakeshore-launch-brief-template.docx`](https://github.com/miookawa/copilot-experience-lab/releases/download/lakeshore-sample-data-ja-v1.0.0/lakeshore-launch-brief-template.docx)（ローンチ ブリーフ雛形）
+- [`northwind-outfitters-proposal.docx`](https://github.com/miookawa/copilot-experience-lab/releases/download/lakeshore-sample-data-ja-v1.0.0/northwind-outfitters-proposal.docx)（パートナー提案書）
+- [`agent-knowledge-pack.docx`](https://github.com/miookawa/copilot-experience-lab/releases/download/lakeshore-sample-data-ja-v1.0.0/agent-knowledge-pack.docx)（エージェント用ナレッジ）
+- [`customer-complaint-cases.xlsx`](https://github.com/miookawa/copilot-experience-lab/releases/download/lakeshore-sample-data-ja-v1.0.0/customer-complaint-cases.xlsx)（任意・発展演習用）
 
 ---
 

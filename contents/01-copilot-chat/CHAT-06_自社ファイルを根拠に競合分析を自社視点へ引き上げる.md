@@ -1,11 +1,11 @@
-# 自社ファイルを根拠に競合分析を自社視点へ引き上げる｜CHAT-05
+# 自社ファイルを根拠に競合分析を自社視点へ引き上げる｜CHAT-06
 
 | 項目 | 内容 |
 |---|---|
 | **目的** | 一般的な競合サマリーから、自社にとっての意味を語る提言へ引き上げる |
 | **所要** | 約 10 分（目安） |
 | **利用** | Microsoft 365 Copilot Chat（Work） |
-| **入力** | `lakeshore-prior-season-strategy.docx`、`lakeshore-brand-playbook.docx` |
+| **入力** | [`lakeshore-prior-season-strategy.docx`](https://github.com/miookawa/copilot-experience-lab/releases/download/lakeshore-sample-data-ja-v1.0.0/lakeshore-prior-season-strategy.docx)、[`lakeshore-brand-playbook.docx`](https://github.com/miookawa/copilot-experience-lab/releases/download/lakeshore-sample-data-ja-v1.0.0/lakeshore-brand-playbook.docx) |
 | **成果** | 競合比較表 ＋ レイクショア固有のポジショニング提言（4〜5 文） |
 
 > **実施条件**：Microsoft 365 Copilot とレイクショアのファイルにアクセスできる場合のみハンズオンで実施します。
@@ -57,7 +57,7 @@
 <!--
 ## WATCH
 
-`../assets/CHAT-05/` に動画 / GIF を配置してください（CHAT-01 の出力との並置がおすすめ）。
+`../assets/CHAT-06/` に動画 / GIF を配置してください（CHAT-01 の出力との並置がおすすめ）。
 
 ---
 -->

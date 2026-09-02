@@ -55,7 +55,7 @@
 ### 発展（任意）
 
 ファシリテーターの指示があれば、後半でファイルを使ったバージョンを試します。
-`customer-complaint-cases.xlsx` を使い、クレームのテーマ、優先度の高い課題、推奨対応アクションを特定します。
+[`customer-complaint-cases.xlsx`](https://github.com/miookawa/copilot-experience-lab/releases/download/lakeshore-sample-data-ja-v1.0.0/customer-complaint-cases.xlsx) を使い、クレームのテーマ、優先度の高い課題、推奨対応アクションを特定します。
 これは任意であり、本演習の必須要素ではありません。
 
 ---
@@ -83,4 +83,4 @@
 ## NEXT
 
 - [パートナー提案書を要約し確認すべき質問を洗い出す｜CHAT-04](CHAT-04_パートナー提案書を要約し確認すべき質問を洗い出す.md)
-- 発展：[顧客フォローアップ用エージェントを作る｜AGB-04](../06-agent-builder/AGB-04_顧客フォローアップ用エージェントを作る.md)（この流れを再利用可能にする）
+- 発展：[顧客フォローアップ用エージェントを作る｜AGB-04](../07-agent-builder/AGB-04_顧客フォローアップ用エージェントを作る.md)（この流れを再利用可能にする）

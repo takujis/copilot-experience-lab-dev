@@ -39,7 +39,7 @@ Proposal Assistant
 ```
 
 4. ナレッジ ソースは、適切かつ許可されている場合にのみ追加する
-   （例：`northwind-outfitters-proposal.docx`、`agent-knowledge-pack.docx`）
+   （例：[`northwind-outfitters-proposal.docx`](https://github.com/miookawa/copilot-experience-lab/releases/download/lakeshore-sample-data-ja-v1.0.0/northwind-outfitters-proposal.docx)、[`agent-knowledge-pack.docx`](https://github.com/miookawa/copilot-experience-lab/releases/download/lakeshore-sample-data-ja-v1.0.0/agent-knowledge-pack.docx)）
 5. 指示（インストラクション）に次を使う
 
 ```text
@@ -104,4 +104,4 @@ Proposal Assistant
 
 ## NEXT
 
-- プログラムの締めくくり：[SMB Guided Experience の Close](../../programs/smb-guided-experience/README.md#close--振り返りと次の一歩)
+- [長い文書をレビューしてもらう｜WRD-02](../04-word/WRD-02_長い文書をレビューしてもらう.md)（エージェントが作った初稿を、人が判断できる修正候補に変える）
