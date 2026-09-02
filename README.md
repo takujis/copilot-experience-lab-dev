@@ -1,7 +1,7 @@
 # Copilot Experience Lab
 
 Microsoft Copilot を試すための、日本語の体験コンテンツ集です。
-1 コンテンツ 5〜30 分、全 37 件。**実業務のデータ**でも、**架空企業「レイクショア」のサンプルデータ**でも試せます。
+1 コンテンツ 5〜30 分、全 47 件。**実業務のデータ**でも、**架空企業「レイクショア」のサンプルデータ**でも試せます。
 
 | フォルダー | 役割 |
 |---|---|
@@ -22,6 +22,7 @@ Microsoft Copilot を試すための、日本語の体験コンテンツ集で�
 | まず 1 件だけ試したい | [SETUP-01 サインイン確認と安全なAI利用の土台づくり](./contents/00-setup/SETUP-01_%E3%82%B5%E3%82%A4%E3%83%B3%E3%82%A4%E3%83%B3%E7%A2%BA%E8%AA%8D%E3%81%A8%E5%AE%89%E5%85%A8%E3%81%AAAI%E5%88%A9%E7%94%A8%E3%81%AE%E5%9C%9F%E5%8F%B0%E3%81%A5%E3%81%8F%E3%82%8A.md) → [下のコンテンツ一覧](#コンテンツ一覧) |
 | 30 日間の伴走プログラムを回したい | [Copilot in 30](./programs/copilot-in-30/README.md) |
 | 90 分のワークショップを実施したい | [M365 Copilot + Agents SMB Guided Experience](./programs/smb-guided-experience/README.md) |
+| 経営層向けのワークショップを実施したい | [CXO Experience](./programs/cxo-experience/README.md) |
 | サンプルデータを配布したい | [レイクショア サンプルデータ（日本語版）](./contents/assets/lakeshore-sample-data-ja/README.md) |
 | 体験やプログラムを追加したい | [CONTRIBUTING.md](./CONTRIBUTING.md) ／ [プログラム雛形](./programs/templates/README.md) |
 
@@ -37,7 +38,7 @@ Microsoft Copilot を試すための、日本語の体験コンテンツ集で�
 | サンプル ファイル | レイクショア（架空企業）のサンプル ファイルを使う |
 | サンプル（プロンプト内） | 題材がプロンプトに含まれ、ファイル準備なしで試せる |
 
-**カテゴリ**：[Setup](#00-setup)（1） ／ [Copilot Chat](#01-copilot-chat)（20） ／ [Outlook / Teams](#02-outlook-teams)（6） ／ [Excel](#03-excel)（1） ／ [Word](#04-word)（2） ／ [PowerPoint](#05-powerpoint)（準備中） ／ [Researcher / Analyst](#06-researcher-analyst)（2） ／ [Agent Builder](#07-agent-builder)（5） ／ [Personas](#08-personas)（準備中）
+**カテゴリ**：[Setup](#00-setup)（1） ／ [Copilot Chat](#01-copilot-chat)（20） ／ [Outlook / Teams](#02-outlook-teams)（6） ／ [Excel](#03-excel)（1） ／ [Word](#04-word)（2） ／ [PowerPoint](#05-powerpoint)（準備中） ／ [Researcher / Analyst](#06-researcher-analyst)（2） ／ [Agent Builder](#07-agent-builder)（5） ／ [Personas / CXO](#08-personas)（10）
 
 <a id="00-setup"></a>
 
@@ -147,9 +148,24 @@ Microsoft Copilot を試すための、日本語の体験コンテンツ集で�
 
 <a id="08-personas"></a>
 
-### Personas ｜ `08-personas`
+### Personas / CXO ｜ `08-personas`（10 件）
 
-役割別の使いどころ（**準備中**：コンテンツはまだありません）
+役割別の使いどころ。中小企業の**経営層向け**のコースを収めています。単発でも試せますが、[CXO Experience](./programs/cxo-experience/README.md) として `CXO-01` から順に通すと、経営者の一日を一気通貫で体験できます。
+
+| ID | 体験 | ねらい | 所要 | 利用 | データ |
+|---|---|---|---|---|---|
+| `CXO-01` | [経営者の1週間を5分で棚卸しする](./contents/08-personas/CXO-01_経営者の1週間を5分で棚卸しする.md) | この1週間に起きたことを、「自分が決めること」「任せること」「放っておくこと」に仕分ける | 約 10 分 | Microsoft 365 Copilot Chat（Work） | 自分の業務データ |
+| `CXO-02` | [主要取引先の危険信号を先に見つける](./contents/08-personas/CXO-02_主要取引先の危険信号を先に見つける.md) | 「なんとなく様子がおかしい」を、根拠のある兆候として先に拾い上げる | 約 15 分 | Microsoft 365 Copilot Chat（Work） ／ Outlook ／ Teams ／ Cowork | 自分の業務データ |
+| `CXO-03` | [外の動きを経営会議に出せる1枚にする](./contents/08-personas/CXO-03_外の動きを経営会議に出せる1枚にする.md) | 「気になっているが調べる時間がない」外部環境の話を、経営会議に出せる 1 枚に変える | 約 15 分 | Microsoft 365 Copilot の Researcher エージェント ／ Copilot Chat（Work） | 自分の業務データ |
+| `CXO-04` | [数字から来月の打ち手を3つ決める](./contents/08-personas/CXO-04_数字から来月の打ち手を3つ決める.md) | 「売上が落ちている」で止まっている会話を、原因の仮説と打ち手まで進める | 約 15 分 | Microsoft 365 Copilot の Analyst エージェント ／ Copilot in Excel | 自分の業務データ ／ サンプル ファイル |
+| `CXO-05` | [幹部との1on1と経営会議を10分で仕込む](./contents/08-personas/CXO-05_幹部との1on1と経営会議を10分で仕込む.md) | 「とりあえず集まる」会議を、決めるべきことが決まる会議に変える | 約 15 分 | Microsoft 365 Copilot Chat（Work） ／ Outlook ／ Teams | 自分の業務データ |
+| `CXO-06` | [決めたことを伝わる言葉にする](./contents/08-personas/CXO-06_決めたことを伝わる言葉にする.md) | 決めたことが現場に伝わらない状態を、先回りしたQ&A付きの発信に変える | 約 15 分 | Microsoft 365 Copilot Chat（Work） ／ Outlook ／ Teams | 自分の業務データ |
+| `CXO-07` | [月次報告のスライドをその場で作らせる](./contents/08-personas/CXO-07_月次報告のスライドをその場で作らせる.md) | 毎月半日かけている報告資料づくりを、確認と手直しの作業に変える | 約 20 分 | Cowork ／ Copilot Chat（Work） ＋ PowerPoint の Copilot | 自分の業務データ |
+| `CXO-08` | [情報の線引きを経営者が決める](./contents/08-personas/CXO-08_情報の線引きを経営者が決める.md) | 「AI に何を読ませてよいか」を、担当者任せにせず経営者が線引きする | 約 10 分 | Microsoft 365 Copilot Chat（Work） | サンプル（プロンプト内） |
+| `CXO-09` | [AIをどこに効かせるか対話で見つける](./contents/08-personas/CXO-09_AIをどこに効かせるか対話で見つける.md) | 「AI で何かできないか」という漠然とした問いを、着手する 1 件に変える | 約 20 分 | Microsoft 365 Copilot Chat（Work） ／ Cowork | サンプル（プロンプト内） ／ サンプル ファイル |
+| `CXO-10` | [自社の最初の1体を作る](./contents/08-personas/CXO-10_自社の最初の1体を作る.md) | 決めた 1 件を、その場で動くエージェントにして持ち帰る | 約 20 分 | Copilot の Agent Builder | 自分の業務データ |
+
+> `CXO-02` と `CXO-05` は実在の取引先・人物を扱います。複数社が同席する場では、画面共有を止めるか進行役のデモに切り替えてください。
 
 ### ID の接頭辞
 
@@ -165,6 +181,7 @@ Microsoft Copilot を試すための、日本語の体験コンテンツ集で�
 | `WRD-` | Word | `contents/04-word/` |
 | `AGT-` | Researcher / Analyst エージェント | `contents/06-researcher-analyst/` |
 | `AGB-` | Agent Builder | `contents/07-agent-builder/` |
+| `CXO-` | 経営層向け（役割別） | `contents/08-personas/` |
 
 一度発行した ID は変更しません（プログラムからの参照が壊れるため）。
 
@@ -179,6 +196,7 @@ Microsoft Copilot を試すための、日本語の体験コンテンツ集で�
 |---|---|---|---|
 | **Copilot in 30** | Copilot トライアルを行うお客様、伴走支援するパートナー向け | Day 0 〜 Day 21 | [進行ガイド](./programs/copilot-in-30/README.md) ／ [参加者向けページ](https://miookawa.github.io/copilot-experience-lab/programs/copilot-in-30/) |
 | **M365 Copilot + Agents SMB Guided Experience** | SMB のお客様と、実施するパートナー | 約 90 分 | [進行ガイド](./programs/smb-guided-experience/README.md) ／ [参加者向けページ](https://miookawa.github.io/copilot-experience-lab/programs/smb-guided-experience/) |
+| **CXO Experience** | 中小企業の経営層と、実施するパートナー | 約 120 分（短縮 60 分） | [進行ガイド](./programs/cxo-experience/README.md) |
 | **プログラム雛形** | 新しいプログラムを追加する人 | — | [テンプレート](./programs/templates/README.md) |
 
 ### Copilot in 30 ｜ 30 日間 AI 活用プログラム
@@ -210,6 +228,26 @@ Week 1〜3 で選択肢を広げ、**Day 15 前後で「自分の定番」を 1 
 | 2 | 自分の仕事につながる — Microsoft 365 Copilot | [メールとチャットから未対応のフォローアップを洗い出す](./contents/02-outlook-teams/CATCH-01_メールとチャットから未対応のフォローアップを洗い出す.md)／[自社ファイルを根拠に競合分析を自社視点へ引き上げる](./contents/01-copilot-chat/CHAT-06_自社ファイルを根拠に競合分析を自社視点へ引き上げる.md)／[売上データから地域別の弱点と価格施策を導く](./contents/03-excel/XLS-01_売上データから地域別の弱点と価格施策を導く.md)／[短いブリーフを10章のローンチ文書に展開する](./contents/04-word/WRD-01_短いブリーフを10章のローンチ文書に展開する.md)／[会議を要約しフォローアップ連絡文を作る](./contents/02-outlook-teams/MTG-01_会議を要約しフォローアップ連絡文を作る.md) | 2 つ完了 |
 | 3 | 任せてみる — Agents | [Researcherに市場調査ブリーフを委任する](./contents/06-researcher-analyst/AGT-01_Researcherに市場調査ブリーフを委任する.md)／[Analystにリスクの高いSKU特定を委任する](./contents/06-researcher-analyst/AGT-02_Analystにリスクの高いSKU特定を委任する.md) | 1 つ以上（デモ可） |
 | 4 | 自分のものにする — Agent Builder | [顧客フォローアップ用エージェントを作る](./contents/07-agent-builder/AGB-04_顧客フォローアップ用エージェントを作る.md)／[提案書作成エージェントを作る](./contents/07-agent-builder/AGB-05_提案書作成エージェントを作る.md) | AGB-04 必須 |
+
+### CXO Experience ／ 中小企業経営層向け Copilot 体験
+
+**ゴール**：機能を知って帰るのではなく、**自社での着手 1 件と、動くエージェント 1 体を決めて帰る**。
+機能単位ではなく**経営者の一日の仕事の順**にコース料理として並べています。参加企業自身のデータを使うことを前提とし、サンプルデータは代替手段として扱います。
+
+| 皿 | 時間 | 使う体験 | 必須 / 選択 |
+|---|---|---|---|
+| アミューズ｜まず驚く | 10 分 | [サインイン確認と安全なAI利用の土台づくり](./contents/00-setup/SETUP-01_サインイン確認と安全なAI利用の土台づくり.md)／[自社のホームページから企業紹介インフォグラフィックを作る](./contents/01-copilot-chat/CHAT-IMG-02_自社のホームページから企業紹介インフォグラフィックを作る.md) | 2 つとも |
+| 前菜｜自社の現在地 | 10 分 | [経営者の1週間を5分で棚卸しする](./contents/08-personas/CXO-01_経営者の1週間を5分で棚卸しする.md) | 必須 |
+| スープ｜取引先の危険信号 | 15 分 | [主要取引先の危険信号を先に見つける](./contents/08-personas/CXO-02_主要取引先の危険信号を先に見つける.md) | 必須 |
+| 魚料理｜数字 | 15 分 | [数字から来月の打ち手を3つ決める](./contents/08-personas/CXO-04_数字から来月の打ち手を3つ決める.md)<br>**代替**：[外の動きを経営会議に出せる1枚にする](./contents/08-personas/CXO-03_外の動きを経営会議に出せる1枚にする.md) | 選択（デモ可） |
+| **メイン｜決める・作る・伝える** | 35 分 | [幹部との1on1と経営会議を10分で仕込む](./contents/08-personas/CXO-05_幹部との1on1と経営会議を10分で仕込む.md)／[月次報告のスライドをその場で作らせる](./contents/08-personas/CXO-07_月次報告のスライドをその場で作らせる.md)<br>**選択**：[決めたことを伝わる言葉にする](./contents/08-personas/CXO-06_決めたことを伝わる言葉にする.md) | CXO-05・CXO-07 必須 |
+| 口直し｜安心の線引き | 10 分 | [情報の線引きを経営者が決める](./contents/08-personas/CXO-08_情報の線引きを経営者が決める.md) | 必須 |
+| デザート｜自社への持ち帰り | 20 分 | [AIをどこに効かせるか対話で見つける](./contents/08-personas/CXO-09_AIをどこに効かせるか対話で見つける.md)／[自社の最初の1体を作る](./contents/08-personas/CXO-10_自社の最初の1体を作る.md) | CXO-09 必須 |
+| コーヒー｜次の一歩 | 5 分 | 体験なし。着手 1 件と 30 日後の判定基準を確認 | — |
+
+**ショートコース（約 60 分）**：CHAT-IMG-02 → CXO-01 → CXO-02 → CXO-07 → CXO-08 → CXO-09
+
+> 時間が押した場合は、魚料理（CXO-04）→ 口直し（CXO-08）の順で削ります。**メインとデザートは削らないでください。**
 
 ---
 
@@ -248,11 +286,12 @@ copilot-experience-lab/
 │  ├─ 05-powerpoint/            … PowerPoint（準備中）
 │  ├─ 06-researcher-analyst/    … Researcher / Analyst（2 件）
 │  ├─ 07-agent-builder/         … Agent Builder（5 件）
-│  ├─ 08-personas/              … Personas（準備中）
+│  ├─ 08-personas/              … Personas / CXO（10 件）
 │  └─ assets/                   … 体験別の画像・動画、レイクショア サンプルデータ
 └─ programs/                    … 進行プログラム（順番とルールのみ）
    ├─ copilot-in-30/            … 30 日間プログラム（README = 進行ガイド／index = 参加者向け）
    ├─ smb-guided-experience/    … 90 分ワークショップ
+   ├─ cxo-experience/           … 経営層向け 120 分ワークショップ
    └─ templates/                … 新規プログラムの雛形
 ```
 
@@ -277,6 +316,7 @@ copilot-experience-lab/
 - 利用できる機能は、**ライセンスとテナント設定**によって異なります。特に Excel（XLS-01）と Agent Builder（AGB-02 〜 AGB-05）は事前確認が必要です。
 - Copilot in Excel は、ファイルを OneDrive / SharePoint に保存し、AutoSave を有効にする必要があります。
 - エージェントの作成・共有の可否は、管理者設定・テナント構成・ライセンスによって異なります。実施前に管理者へ確認してください。
+- `CXO-02`／`CXO-05`／`CXO-06` は実在の取引先・人物・決定事項を扱います。複数社が同席する場では画面共有を止めるか、進行役のデモに切り替えてください。
 - Copilot の回答をうのみにせず、**根拠リンクを開いて確認する**運用を前提とします。
 - 時間短縮は**参加者が実測**します。Copilot に見積もらせないでください。
 - ハンズオンが難しい回は、進行役のデモに切り替えて構いません。
