@@ -187,6 +187,7 @@ Microsoft Copilot を**自分の仕事で試す**ための、日本語の体験�
 - [CXO-08：情報の線引きを経営者が決める](./contents/08-personas/CXO-08_情報の線引きを経営者が決める.md)
 - [CXO-09：AIをどこに効かせるか対話で見つける](./contents/08-personas/CXO-09_AIをどこに効かせるか対話で見つける.md)
 - [CXO-10：自社の最初の1体を作る](./contents/08-personas/CXO-10_自社の最初の1体を作る.md)
+- [CXO-11：売上データと市場情報から成長戦略を決める](./contents/08-personas/CXO-11_売上データと市場情報から成長戦略を決める.md)
 
 ### サンプルデータ
 
