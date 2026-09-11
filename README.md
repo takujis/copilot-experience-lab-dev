@@ -54,7 +54,7 @@ Microsoft Copilot を**自分の仕事で試す**ための、日本語の体験�
 
 | ディレクトリ | 内容 | 件数 |
 |---|---|---:|
-| [`00-setup/`](./contents/00-setup) | サインイン確認、安全な AI 利用、データ準備 | 1 |
+| [`00-setup/`](./contents/00-setup) | サインイン確認、安全な AI 利用、データ準備 | 2 |
 | [`01-copilot-chat/`](./contents/01-copilot-chat) | 情報整理、要約、比較、画像生成、日常業務への定着 | 20 |
 | [`02-outlook-teams/`](./contents/02-outlook-teams) | メール、チャット、会議の準備・要約・フォローアップ | 6 |
 | [`03-excel/`](./contents/03-excel) | 売上データの分析と施策立案 | 1 |
@@ -113,6 +113,85 @@ Microsoft Copilot を**自分の仕事で試す**ための、日本語の体験�
 
 > [!CAUTION]
 > 参加者のメール、会議、チャット、ファイルを使う体験があります。機密情報、個人情報、人事・法務・財務情報、機微な顧客情報の取り扱いは、参加組織のポリシーに従ってください。Copilot の出力はうのみにせず、引用元や根拠を確認してください。
+
+## コンテンツ一覧
+
+### 事前準備
+
+- [SETUP-01：サインイン確認と安全なAI利用の土台づくり](./contents/00-setup/SETUP-01_サインイン確認と安全なAI利用の土台づくり.md)
+- [SETUP-02：日本のCXO向け Copilot デモ環境の構築](./contents/00-setup/SETUP-02_日本のCXO向けCopilotデモ環境の構築.md)
+
+### Copilot Chat
+
+- [CHAT-01：競合3社のメモを比較表と示唆に変える](./contents/01-copilot-chat/CHAT-01_競合3社のメモを比較表と示唆に変える.md)
+- [CHAT-02：キャンペーンブリーフと役員向けプレゼン骨子を作る](./contents/01-copilot-chat/CHAT-02_キャンペーンブリーフと役員向けプレゼン骨子を作る.md)
+- [CHAT-03：顧客クレームを論点整理し返信案まで作る](./contents/01-copilot-chat/CHAT-03_顧客クレームを論点整理し返信案まで作る.md)
+- [CHAT-04：パートナー提案書を要約し確認すべき質問を洗い出す](./contents/01-copilot-chat/CHAT-04_パートナー提案書を要約し確認すべき質問を洗い出す.md)
+- [CHAT-05：Copilotはもう、あなたの仕事を知っている](./contents/01-copilot-chat/CHAT-05_Copilotはもうあなたの仕事を知っている.md)
+- [CHAT-06：自社ファイルを根拠に競合分析を自社視点へ引き上げる](./contents/01-copilot-chat/CHAT-06_自社ファイルを根拠に競合分析を自社視点へ引き上げる.md)
+- [CHAT-07：忙しい朝を3分で整理、スケジュール実行する](./contents/01-copilot-chat/CHAT-07_忙しい朝を3分で整理する.md)
+- [CHAT-08：会議前の「何を話せばよいか」を作る](./contents/01-copilot-chat/CHAT-08_会議前の_何を話せばよいか_を作る.md)
+- [CHAT-09：Week 1の驚きを言語化する](./contents/01-copilot-chat/CHAT-09_Week%201の驚きを言語化する.md)
+- [CHAT-10：未処理メールをまとめて整理する](./contents/01-copilot-chat/CHAT-10_未処理メールをまとめて整理する.md)
+- [CHAT-11：この画面は何するところ？を、撮って聞く](./contents/01-copilot-chat/CHAT-11_この画面は何かを撮って聞く.md)
+- [CHAT-12：朝または夕方のプロンプトを定型化する](./contents/01-copilot-chat/CHAT-12_朝または夕方のプロンプトを定型化する.md)
+- [CHAT-13：1日の終わりをCopilotで締める](./contents/01-copilot-chat/CHAT-13_1日の終わりをCopilotで締める.md)
+- [CHAT-14：プロジェクトの状況を横断的に把握する](./contents/01-copilot-chat/CHAT-14_プロジェクトの状況を横断的に把握する.md)
+- [CHAT-15：Copilot自分の使い方からユースケースを作る](./contents/01-copilot-chat/CHAT-15_Copilot自分の使い方からユースケースを作る.md)
+- [CHAT-16：複数資料を比較する](./contents/01-copilot-chat/CHAT-16_複数資料を比較する.md)
+- [CHAT-17：自分専用の「鉄板プロンプト」を作る](./contents/01-copilot-chat/CHAT-17_自分専用の「鉄板プロンプト」を作る.md)
+- [CHAT-18：既存資料を要約する](./contents/01-copilot-chat/CHAT-18_既存資料を要約する.md)
+- [CHAT-IMG-01：自分のワークペルソナを1枚のスケッチにする](./contents/01-copilot-chat/CHAT-IMG-01_自分のワークペルソナを1枚のスケッチにする.md)
+- [CHAT-IMG-02：自社のホームページから企業紹介インフォグラフィックを作る](./contents/01-copilot-chat/CHAT-IMG-02_自社のホームページから企業紹介インフォグラフィックを作る.md)
+
+### Outlook / Teams
+
+- [CATCH-01：メールとチャットから未対応のフォローアップを洗い出す](./contents/02-outlook-teams/CATCH-01_メールとチャットから未対応のフォローアップを洗い出す.md)
+- [CHAT-07：長いメールスレッドから結論だけを得る](./contents/02-outlook-teams/CHAT-07_長いメールスレッドから結論だけを得る.md)
+- [MAL-01：メール返信を3パターン作る](./contents/02-outlook-teams/MAL-01_メール返信を3パターン作る.md)
+- [MTG-01：会議を要約しフォローアップ連絡文を作る](./contents/02-outlook-teams/MTG-01_会議を要約しフォローアップ連絡文を作る.md)
+- [MTG-02：会議後のアクションを自分用に再整理する](./contents/02-outlook-teams/MTG-02_会議後のアクションを自分用に再整理する.md)
+- [MTG-03：会議前から会議後までを一連で使う](./contents/02-outlook-teams/MTG-03_会議前から会議後までを一連で使う.md)
+
+### Excel
+
+- [XLS-01：売上データから地域別の弱点と価格施策を導く](./contents/03-excel/XLS-01_売上データから地域別の弱点と価格施策を導く.md)
+
+### Word
+
+- [WRD-01：短いブリーフを10章のローンチ文書に展開する](./contents/04-word/WRD-01_短いブリーフを10章のローンチ文書に展開する.md)
+- [WRD-02：長い文書をレビューしてもらう](./contents/04-word/WRD-02_長い文書をレビューしてもらう.md)
+
+### Researcher / Analyst
+
+- [AGT-01：Researcherに市場調査ブリーフを委任する](./contents/06-researcher-analyst/AGT-01_Researcherに市場調査ブリーフを委任する.md)
+- [AGT-02：Analystにリスクの高いSKU特定を委任する](./contents/06-researcher-analyst/AGT-02_Analystにリスクの高いSKU特定を委任する.md)
+
+### Agent Builder
+
+- [AGB-01：繰り返し業務を洗い出して1件に絞る](./contents/07-agent-builder/AGB-01_繰り返し業務を洗い出して1件に絞る.md)
+- [AGB-02：軽量Agent Builder体験](./contents/07-agent-builder/AGB-02_軽量Agent%20Builder体験.md)
+- [AGB-03：ホワイトボード写真から議事録とスライドを作る](./contents/07-agent-builder/AGB-03_ホワイトボード写真から議事録とスライドを作る.md)
+- [AGB-04：顧客フォローアップ用エージェントを作る](./contents/07-agent-builder/AGB-04_顧客フォローアップ用エージェントを作る.md)
+- [AGB-05：提案書作成エージェントを作る](./contents/07-agent-builder/AGB-05_提案書作成エージェントを作る.md)
+
+### 役割別コンテンツ / CXO
+
+- [CXO-01：経営者の1週間を5分で棚卸しする](./contents/08-personas/CXO-01_経営者の1週間を5分で棚卸しする.md)
+- [CXO-02：主要取引先の危険信号を先に見つける](./contents/08-personas/CXO-02_主要取引先の危険信号を先に見つける.md)
+- [CXO-03：外の動きを経営会議に出せる1枚にする](./contents/08-personas/CXO-03_外の動きを経営会議に出せる1枚にする.md)
+- [CXO-04：数字から来月の打ち手を3つ決める](./contents/08-personas/CXO-04_数字から来月の打ち手を3つ決める.md)
+- [CXO-05：幹部との1on1と経営会議を10分で仕込む](./contents/08-personas/CXO-05_幹部との1on1と経営会議を10分で仕込む.md)
+- [CXO-06：決めたことを伝わる言葉にする](./contents/08-personas/CXO-06_決めたことを伝わる言葉にする.md)
+- [CXO-07：月次報告のスライドをその場で作らせる](./contents/08-personas/CXO-07_月次報告のスライドをその場で作らせる.md)
+- [CXO-08：情報の線引きを経営者が決める](./contents/08-personas/CXO-08_情報の線引きを経営者が決める.md)
+- [CXO-09：AIをどこに効かせるか対話で見つける](./contents/08-personas/CXO-09_AIをどこに効かせるか対話で見つける.md)
+- [CXO-10：自社の最初の1体を作る](./contents/08-personas/CXO-10_自社の最初の1体を作る.md)
+
+### サンプルデータ
+
+- [Lakeshore サンプルデータ（日本語版）](./contents/assets/lakeshore-sample-data-ja/README.md)
+- [CXO Experience サンプルデータ（日本語版）](./contents/assets/cxo-data/README.md)
 
 ## コンテンツを追加・更新する
 
