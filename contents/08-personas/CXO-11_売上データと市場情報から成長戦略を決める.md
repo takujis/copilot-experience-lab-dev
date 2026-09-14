@@ -3,7 +3,7 @@
 | 項目 | 内容 |
 |---|---|
 | **目的** | 「売上は伸びている」で止まっている会話を、投資するカテゴリ・見直すカテゴリ・次の出店先まで進める |
-| **所要** | 約 25 分（目安） |
+| **所要** | 約 30 分（目安） |
 | **利用** | Copilot in Excel ／ Web 検索を利用できる Copilot エクスペリエンス（Microsoft 365 Copilot Chat など） |
 | **入力** | [`TrendStyleJapan-SalesData.xlsx`](../assets/CXO-11/TrendStyleJapan-SalesData.xlsx)（架空企業のサンプル ブック） |
 | **成果** | 収益上の課題 3 点、投資判断用のバブルチャート 2 枚、新規出店候補 3 件、役員会向けサマリー 1 枚 |
