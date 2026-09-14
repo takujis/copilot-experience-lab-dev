@@ -7,21 +7,8 @@
 | **目的** | Excel で分析した商品・地域・出店の判断を、前年の役員会資料のスタイルを使って、承認を得るための PowerPoint へ変える |
 | **所要** | **約 11 分**（フル版 20 分） |
 | **利用** | Copilot in PowerPoint |
-| **入力** | `TrendStyleJapan-SalesData.xlsx`（CXO-11 で分析したサンプル ブック）、`TrendStyleJapan_2025年度_役員会資料テンプレート.pptx`（架空企業の前年役員会資料） |
+| **入力** |  [`完成版TrendStyleJapan-SalesData.xlsx`](../assets/CXO-12/完成版TrendStyleJapan-SalesData.xlsx)（[売上データと市場情報から成長戦略を決める｜CXO-11](./CXO-11_売上データと市場情報から成長戦略を決める.md) で分析したサンプル ブック）、[`TrendStyleJapan_2025年度_役員会資料テンプレート.pptx`](../assets/CXO-12/TrendStyleJapan_2025年度_役員会資料テンプレート.pptx)（架空企業の前年役員会資料） |
 | **成果** | 商品投資・重点地域・出店検証の承認事項が分かる 2026 年度の役員会資料 1 式、想定質問と回答案 |
-
-## フル版からの変更点
-
-| 変更 | 対象 | 理由 |
-|---|---|---|
-| 短縮 | 準備（8 枚構成の確認） | 別名保存のみ必須。構成の内訳は口頭で |
-| **維持** | ステップ 3（PORTFOLIO の 1 枚化） | 初版生成よりインパクトのあるスライドになるため残す |
-| **削除** | **ステップ 4（CEO / CFO 視点の点検）** | 複数役員の視点はステップ 6 の想定質問が担う。CFO の粗利・リスク・撤退条件は **CXO-11 のステップ 4（CFO 反論プロンプト）** に寄せた |
-| **削除** | **ステップ 5（スピーカーノート）** | 後続のどの手順の入力にもなっていない独立作業。待ち時間が長く画面上の変化も小さい |
-| 短縮 | ステップ 6（想定質問） | プロンプトは残し、［Prepare for Questions］の実行と結果比較は省略 |
-| 短縮 | ステップ 7（最終チェック） | 8 項目 → 3 項目 |
-
-> 削除に伴い、フル版の「6 手」の流れは **4 手**（① 初版 → ② 意思決定資料へ → ③ 最重要スライドを 1 枚に → ④ 想定質問に備える）に、成果物から「スピーカーノート」を、最終チェックから「スピーカーノートがある」を外しています。
 
 ---
 
@@ -40,9 +27,9 @@
 
 ## 事前準備（ファシリテーター、開始前に完了させておく）
 
-- `TrendStyleJapan_2025年度_役員会資料テンプレート.pptx` と `TrendStyleJapan-SalesData.xlsx` を OneDrive または SharePoint に保存しておく
+- [`完成版TrendStyleJapan-SalesData.xlsx`](../assets/CXO-12/完成版TrendStyleJapan-SalesData.xlsx) と [`TrendStyleJapan_2025年度_役員会資料テンプレート.pptx`](../assets/CXO-12/TrendStyleJapan_2025年度_役員会資料テンプレート.pptx) を OneDrive または SharePoint に保存しておく
 - 前年資料の 8 枚構成（表紙／AGENDA／EXECUTIVE SUMMARY／PERFORMANCE／PORTFOLIO／MARKET EXPANSION／90-DAY ACTION／DECISION REQUEST）は**口頭またはスライド 1 枚で説明**する
-- CXO-11 を実施していない参加者は、配布ブックの **「役員会サマリー」** シートを出発点として使う
+- CXO-11 を実施していない参加者は、配布ブックの **完成版TrendStyleJapan-SalesData.xlsx** シートを出発点として使う
 
 ## 参加者の準備（約 1 分）
 
