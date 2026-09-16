@@ -49,7 +49,7 @@ groups:
     cls: "g6"
     label: "Agent Builder"
     lead: "自分専用のエージェントを作る"
-  - dir: "08-personas"
+  - dir: "99-personas"
     cls: "g8"
     label: "Personas / CXO"
     lead: "役割別の使いどころ。経営層向けのコースはここから"

@@ -39,7 +39,7 @@ Microsoft Copilot を**自分の仕事で試す**ための、日本語の体験�
 │   ├── 05-powerpoint/           # PowerPoint（準備中）
 │   ├── 06-researcher-analyst/   # Researcher / Analyst
 │   ├── 07-agent-builder/        # Agent Builder
-│   ├── 08-personas/             # 役割別コンテンツ / CXO
+│   ├── 99-personas/             # 役割別コンテンツ / CXO
 │   └── assets/                  # 画像、動画、サンプルデータ
 └── programs/                    # 複数の体験を組み合わせた進行ガイド
     ├── copilot-in-30/           # 30 日間の伴走プログラム
@@ -62,7 +62,7 @@ Microsoft Copilot を**自分の仕事で試す**ための、日本語の体験�
 | [`05-powerpoint/`](./contents/05-powerpoint) | PowerPoint の体験（準備中） | 0 |
 | [`06-researcher-analyst/`](./contents/06-researcher-analyst) | 調査・分析タスクのエージェントへの委任 | 2 |
 | [`07-agent-builder/`](./contents/07-agent-builder) | 繰り返し業務を行うエージェントの設計・作成 | 5 |
-| [`08-personas/`](./contents/08-personas) | 経営層など、役割別の業務シナリオ | 10 |
+| [`99-personas/`](./contents/99-personas) | 経営層など、役割別の業務シナリオ | 10 |
 
 体験はファイル名の先頭にある ID（`CHAT-01`、`MTG-01`、`CXO-01` など）で識別します。詳しい命名規則と必須フォーマットは [CONTRIBUTING.md](./CONTRIBUTING.md) を参照してください。
 
@@ -177,17 +177,17 @@ Microsoft Copilot を**自分の仕事で試す**ための、日本語の体験�
 
 ### 役割別コンテンツ / CXO
 
-- [CXO-01：経営者の1週間を5分で棚卸しする](./contents/08-personas/CXO-01_経営者の1週間を5分で棚卸しする.md)
-- [CXO-02：主要取引先の危険信号を先に見つける](./contents/08-personas/CXO-02_主要取引先の危険信号を先に見つける.md)
-- [CXO-03：外の動きを経営会議に出せる1枚にする](./contents/08-personas/CXO-03_外の動きを経営会議に出せる1枚にする.md)
-- [CXO-04：数字から来月の打ち手を3つ決める](./contents/08-personas/CXO-04_数字から来月の打ち手を3つ決める.md)
-- [CXO-05：幹部との1on1と経営会議を10分で仕込む](./contents/08-personas/CXO-05_幹部との1on1と経営会議を10分で仕込む.md)
-- [CXO-06：決めたことを伝わる言葉にする](./contents/08-personas/CXO-06_決めたことを伝わる言葉にする.md)
-- [CXO-07：月次報告のスライドをその場で作らせる](./contents/08-personas/CXO-07_月次報告のスライドをその場で作らせる.md)
-- [CXO-08：情報の線引きを経営者が決める](./contents/08-personas/CXO-08_情報の線引きを経営者が決める.md)
-- [CXO-09：AIをどこに効かせるか対話で見つける](./contents/08-personas/CXO-09_AIをどこに効かせるか対話で見つける.md)
-- [CXO-10：自社の最初の1体を作る](./contents/08-personas/CXO-10_自社の最初の1体を作る.md)
-- [CXO-11：売上データと市場情報から成長戦略を決める](./contents/08-personas/CXO-11_売上データと市場情報から成長戦略を決める.md)
+- [CXO-01：経営者の1週間を5分で棚卸しする](./contents/99-personas/CXO-01_経営者の1週間を5分で棚卸しする.md)
+- [CXO-02：主要取引先の危険信号を先に見つける](./contents/99-personas/CXO-02_主要取引先の危険信号を先に見つける.md)
+- [CXO-03：外の動きを経営会議に出せる1枚にする](./contents/99-personas/CXO-03_外の動きを経営会議に出せる1枚にする.md)
+- [CXO-04：数字から来月の打ち手を3つ決める](./contents/99-personas/CXO-04_数字から来月の打ち手を3つ決める.md)
+- [CXO-05：幹部との1on1と経営会議を10分で仕込む](./contents/99-personas/CXO-05_幹部との1on1と経営会議を10分で仕込む.md)
+- [CXO-06：決めたことを伝わる言葉にする](./contents/99-personas/CXO-06_決めたことを伝わる言葉にする.md)
+- [CXO-07：月次報告のスライドをその場で作らせる](./contents/99-personas/CXO-07_月次報告のスライドをその場で作らせる.md)
+- [CXO-08：情報の線引きを経営者が決める](./contents/99-personas/CXO-08_情報の線引きを経営者が決める.md)
+- [CXO-09：AIをどこに効かせるか対話で見つける](./contents/99-personas/CXO-09_AIをどこに効かせるか対話で見つける.md)
+- [CXO-10：自社の最初の1体を作る](./contents/99-personas/CXO-10_自社の最初の1体を作る.md)
+- [CXO-11：売上データと市場情報から成長戦略を決める](./contents/99-personas/CXO-11_売上データと市場情報から成長戦略を決める.md)
 
 ### サンプルデータ
 
