@@ -3,7 +3,7 @@
 | 項目 | 内容 |
 |---|---|
 | **目的** | 売上データを渡すだけで、根拠を確認できる分析用 Excel と、承認を得るための役員会用 PowerPoint を、数字と結論が一致した状態で同時に用意する |
-| **所要** | 約 30 分（目安／Cowork の処理時間を含む） |
+| **所要** | 約 45 分（目安／Cowork の処理時間を含む） |
 | **利用** | Microsoft 365 Copilot Cowork（Excel / PowerPoint / Web 検索） |
 | **入力** | **サンプルデータ**：[`TrendStyleJapan-SalesData.xlsx`](../assets/CXO-11/TrendStyleJapan-SalesData.xlsx)（架空企業のサンプル ブック）、[`TrendStyleJapan_2025年度_役員会資料テンプレート.pptx`](../assets/CXO-12/TrendStyleJapan_2025年度_役員会資料テンプレート.pptx)（架空企業の前年役員会資料） |
 | **成果** | 分析用 Excel 1 冊 → 前年スタイルの役員会用 PowerPoint 1 式 → 短い追加指示による両ファイルの連動更新 |
