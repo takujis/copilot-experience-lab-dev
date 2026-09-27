@@ -21,7 +21,7 @@
 | 遠藤淳也 | カスタマーサポート責任者 | CHAT-03 / AGB-04 |
 | 松吉優香 | パートナー連携責任者 | CHAT-04 / AGB-04 / AGB-05 |
 | 山本夏帆 | 店舗運営部長 | MTG-01 |
-| リーダーシップ チーム | 経営陣 | AGT-01 / AGT-02 |
+| リーダーシップ チーム | 経営陣 | MSA-01 / MSA-02 |
 
 AI が支援する 4 つのステージ：
 
@@ -60,8 +60,8 @@ AI が支援する 4 つのステージ：
 **必須**：2 つ完了 ／ **代替進行**：ライセンスやアクセスの状況に応じて、進行役によるデモに切り替える
 
 ### セクション 3 | 任せてみる — Agents
-1. [Researcherに市場調査ブリーフを委任する](../../contents/06-researcher-analyst/AGT-01_Researcherに市場調査ブリーフを委任する.md)
-2. [Analystにリスクの高いSKU特定を委任する](../../contents/06-researcher-analyst/AGT-02_Analystにリスクの高いSKU特定を委任する.md)
+1. [Researcherに市場調査ブリーフを委任する](../../contents/06-microsoft-agents/MSA-01_Researcherに市場調査ブリーフを委任する.md)
+2. [Analystにリスクの高いSKU特定を委任する](../../contents/06-microsoft-agents/MSA-02_Analystにリスクの高いSKU特定を委任する.md)
 
 **必須**：1 つ以上を体験またはデモ視聴
 

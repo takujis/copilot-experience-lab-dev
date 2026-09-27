@@ -27,7 +27,8 @@ Copilot Experience Lab にコンテンツを追加・改訂するときのルー
 | `EXP-PPT-` | PowerPoint | `contents/05-powerpoint/` |
 | `EXP-MTG-` | 会議シナリオ | `contents/02-outlook-teams/` |
 | `EXP-CATCH-` | キャッチアップ シナリオ | `contents/02-outlook-teams/` |
-| `EXP-AGT-` | エージェント | `contents/06-researcher-analyst/` または `contents/07-agent-builder/` |
+| `EXP-MSA-` | Microsoft エージェント | `contents/06-microsoft-agents/` |
+| `EXP-AGT-` | Agent Builder | `contents/07-agent-builder/` |
 
 一度発行した ID は変更しません（プログラムからの参照が壊れるため）。
 
