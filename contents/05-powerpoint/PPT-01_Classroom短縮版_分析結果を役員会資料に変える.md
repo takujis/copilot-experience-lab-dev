@@ -1,4 +1,4 @@
-# 【Class room 短縮版】分析結果を役員会資料に変える｜CXO-12
+# 【Class room 短縮版】分析結果を役員会資料に変える｜PPT-01
 
 > この資料は GitHub 掲載版（フル版）の **Class room 実施用の短縮版**です。GitHub 側の内容は変更しません。各自が自社で実施する場合はフル版を使ってください。
 
@@ -7,14 +7,14 @@
 | **目的** | Excel で分析した商品・地域・出店の判断を、前年の役員会資料のスタイルを使って、承認を得るための PowerPoint へ変える |
 | **所要** | **約 18 分** |
 | **利用** | Copilot in PowerPoint |
-| **入力** |  [`完成版TrendStyleJapan-SalesData.xlsx`](../assets/CXO-12/完成版TrendStyleJapan-SalesData.xlsx)（[売上データと市場情報から成長戦略を決める｜CXO-11](./CXO-11_売上データと市場情報から成長戦略を決める.md) で分析したサンプル ブック）、[`TrendStyleJapan_2025年度_役員会資料テンプレート.pptx`](../assets/CXO-12/TrendStyleJapan_2025年度_役員会資料テンプレート.pptx)（架空企業の前年役員会資料） |
+| **入力** |  [`完成版TrendStyleJapan-SalesData.xlsx`](../assets/PPT-01/完成版TrendStyleJapan-SalesData.xlsx)（[売上データと市場情報から成長戦略を決める｜XLS-02](../03-excel/XLS-02_Classroom短縮版_売上データと市場情報から成長戦略を決める.md) で分析したサンプル ブック）、[`TrendStyleJapan_2025年度_役員会資料テンプレート.pptx`](../assets/PPT-01/TrendStyleJapan_2025年度_役員会資料テンプレート.pptx)（架空企業の前年役員会資料） |
 | **成果** | 商品投資・重点地域・出店検証の承認事項が分かる 2026 年度の役員会資料 1 式、想定質問と回答案 |
 
 ---
 
 ## シナリオ
 
-あなたは、アパレルメーカー兼小売企業 **TrendStyle Japan**（架空の企業です）の経営企画部長です。前の体験 CXO-11 で、拡大投資するカテゴリ、収益改善が必要なカテゴリ、重点地域、新規出店候補、次の 90 日まで整理できています。
+あなたは、アパレルメーカー兼小売企業 **TrendStyle Japan**（架空の企業です）の経営企画部長です。前の体験 XLS-02 で、拡大投資するカテゴリ、収益改善が必要なカテゴリ、重点地域、新規出店候補、次の 90 日まで整理できています。
 
 社長から、こう言われています。
 
@@ -27,9 +27,9 @@
 
 ## 事前準備（ファシリテーター、開始前に完了させておく）
 
-- [`完成版TrendStyleJapan-SalesData.xlsx`](../assets/CXO-12/完成版TrendStyleJapan-SalesData.xlsx) と [`TrendStyleJapan_2025年度_役員会資料テンプレート.pptx`](../assets/CXO-12/TrendStyleJapan_2025年度_役員会資料テンプレート.pptx) を OneDrive または SharePoint に保存しておく
+- [`完成版TrendStyleJapan-SalesData.xlsx`](../assets/PPT-01/完成版TrendStyleJapan-SalesData.xlsx) と [`TrendStyleJapan_2025年度_役員会資料テンプレート.pptx`](../assets/PPT-01/TrendStyleJapan_2025年度_役員会資料テンプレート.pptx) を OneDrive または SharePoint に保存しておく
 - 前年資料の 8 枚構成（表紙／AGENDA／EXECUTIVE SUMMARY／PERFORMANCE／PORTFOLIO／MARKET EXPANSION／90-DAY ACTION／DECISION REQUEST）は**口頭またはスライド 1 枚で説明**する
-- CXO-11 を実施していない参加者は、配布ブックの **完成版TrendStyleJapan-SalesData.xlsx** シートを出発点として使う
+- XLS-02 を実施していない参加者は、配布ブックの **完成版TrendStyleJapan-SalesData.xlsx** シートを出発点として使う
 
 ## 参加者の準備（約 1 分）
 
@@ -93,7 +93,7 @@
 
 10. 次の 3 点を確認する
 
-    - CXO-11 のバブルチャート（成長率 × 粗利率 × 売上規模）の考え方が引き継がれているか
+    - XLS-02 のバブルチャート（成長率 × 粗利率 × 売上規模）の考え方が引き継がれているか
     - 拡大投資、収益改善を条件に投資、維持、再設計の違いが分かるか
     - グラフや図の横に、役員への依頼が短く示されているか
 
@@ -156,7 +156,7 @@ Excel と PowerPoint が OneDrive / SharePoint に保存され、Copilot から�
 ## NEXT
 
 - 月次報告のスライドをその場で作らせる｜CXO-07（同じ考え方を、毎月の定例報告で繰り返し使う）
-- 戻る：【Class room 短縮版】売上データと市場情報から成長戦略を決める｜CXO-11
+- 戻る：[【Class room 短縮版】売上データと市場情報から成長戦略を決める｜XLS-02](../03-excel/XLS-02_Classroom短縮版_売上データと市場情報から成長戦略を決める.md)
 
 ---
 

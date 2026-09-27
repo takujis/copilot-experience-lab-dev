@@ -5,7 +5,7 @@
 | **目的** | Excel で分析した商品・地域・出店の判断を、前年の役員会資料のスタイルを使って、承認を得るための PowerPoint へ変える |
 | **所要** | 約 20 分（目安） |
 | **利用** | Copilot in PowerPoint |
-| **入力** | [`TrendStyleJapan-SalesData.xlsx`]（[売上データと市場情報から成長戦略を決める｜CXO-11](./CXO-11_売上データと市場情報から成長戦略を決める.md) で分析したサンプル ブック）、[`TrendStyleJapan_2025年度_役員会資料テンプレート.pptx`](../assets/CXO-12/TrendStyleJapan_2025年度_役員会資料テンプレート.pptx)（架空企業の前年役員会資料） |
+| **入力** | [`TrendStyleJapan-SalesData.xlsx`]（[売上データと市場情報から成長戦略を決める｜CXO-11](./CXO-11_売上データと市場情報から成長戦略を決める.md) で分析したサンプル ブック）、[`TrendStyleJapan_2025年度_役員会資料テンプレート.pptx`](../assets/PPT-01/TrendStyleJapan_2025年度_役員会資料テンプレート.pptx)（架空企業の前年役員会資料） |
 | **成果** | 商品投資・重点地域・出店検証の承認事項が分かる 2026 年度の役員会資料 1 式、スピーカーノート、想定質問と回答案 |
 
 > **実施条件**：PowerPoint で Microsoft 365 Copilot が使える場合にハンズオンで実施します。
@@ -41,7 +41,7 @@
 
 1. [`TrendStyleJapan-SalesData.xlsx`] を 確認する
 2. ブックに **「役員会サマリー」** シートがあることを確認する（[CXO-11](./CXO-11_売上データと市場情報から成長戦略を決める.md) のステップ 8 で作成したサマリーです）
-3. [`TrendStyleJapan_2025年度_役員会資料テンプレート.pptx`](../assets/CXO-12/TrendStyleJapan_2025年度_役員会資料テンプレート.pptx) を OneDrive または SharePoint に保存し、PowerPoint で開く
+3. [`TrendStyleJapan_2025年度_役員会資料テンプレート.pptx`](../assets/PPT-01/TrendStyleJapan_2025年度_役員会資料テンプレート.pptx) を OneDrive または SharePoint に保存し、PowerPoint で開く
 4. このファイルは **前年（2025 年度）の役員会資料** という設定です。次の 8 枚構成を確認する
 
    | スライド | 内容 |
@@ -205,7 +205,7 @@ CEO、CFO、営業担当役員から想定される質問と回答案を作成�
 <!--
 ## WATCH
 
-`../assets/CXO-12/` に動画 / GIF を配置してください（ステップ 1 の「前年資料のスタイルを引き継いだ初版生成」と、ステップ 2 の「説明資料 → 意思決定資料」への変化を並べるのがおすすめ）。
+`../assets/PPT-01/` に動画 / GIF を配置してください（ステップ 1 の「前年資料のスタイルを引き継いだ初版生成」と、ステップ 2 の「説明資料 → 意思決定資料」への変化を並べるのがおすすめ）。
 
 ---
 -->
