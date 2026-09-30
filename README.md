@@ -37,7 +37,7 @@ Microsoft Copilot を**自分の仕事で試す**ための、日本語の体験�
 │   ├── 03-excel/                # Excel
 │   ├── 04-word/                 # Word
 │   ├── 05-powerpoint/           # PowerPoint（準備中）
-│   ├── 06-researcher-analyst/   # Researcher / Analyst
+│   ├── 06-microsoft-agents/     # Microsoft エージェント
 │   ├── 07-agent-builder/        # Agent Builder
 │   ├── 99-personas/             # 役割別コンテンツ / CXO
 │   └── assets/                  # 画像、動画、サンプルデータ
@@ -60,7 +60,7 @@ Microsoft Copilot を**自分の仕事で試す**ための、日本語の体験�
 | [`03-excel/`](./contents/03-excel) | 売上データの分析と施策立案 | 1 |
 | [`04-word/`](./contents/04-word) | 文書の作成とレビュー | 2 |
 | [`05-powerpoint/`](./contents/05-powerpoint) | PowerPoint の体験（準備中） | 0 |
-| [`06-researcher-analyst/`](./contents/06-researcher-analyst) | 調査・分析タスクのエージェントへの委任 | 2 |
+| [`06-microsoft-agents/`](./contents/06-microsoft-agents) | Microsoft 提供エージェントへのタスクの委任 | 2 |
 | [`07-agent-builder/`](./contents/07-agent-builder) | 繰り返し業務を行うエージェントの設計・作成 | 5 |
 | [`99-personas/`](./contents/99-personas) | 経営層など、役割別の業務シナリオ | 10 |
 
@@ -162,10 +162,10 @@ Microsoft Copilot を**自分の仕事で試す**ための、日本語の体験�
 - [WRD-01：短いブリーフを10章のローンチ文書に展開する](./contents/04-word/WRD-01_短いブリーフを10章のローンチ文書に展開する.md)
 - [WRD-02：長い文書をレビューしてもらう](./contents/04-word/WRD-02_長い文書をレビューしてもらう.md)
 
-### Researcher / Analyst
+### Microsoft エージェント
 
-- [AGT-01：Researcherに市場調査ブリーフを委任する](./contents/06-researcher-analyst/AGT-01_Researcherに市場調査ブリーフを委任する.md)
-- [AGT-02：Analystにリスクの高いSKU特定を委任する](./contents/06-researcher-analyst/AGT-02_Analystにリスクの高いSKU特定を委任する.md)
+- [MSA-01：Researcherに市場調査ブリーフを委任する](./contents/06-microsoft-agents/MSA-01_Researcherに市場調査ブリーフを委任する.md)
+- [MSA-02：Analystにリスクの高いSKU特定を委任する](./contents/06-microsoft-agents/MSA-02_Analystにリスクの高いSKU特定を委任する.md)
 
 ### Agent Builder
 

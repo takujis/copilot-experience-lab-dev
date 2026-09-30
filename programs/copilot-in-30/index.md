@@ -278,13 +278,13 @@ description: 30 日間で「自分の仕事」に Copilot を溶かし込む体�
     <span class="c30-subtitle">データ・経営管理</span>
     <span class="c30-meta">約 15 分</span>
   </a>
-  <a class="c30-door w3" href="../../contents/06-researcher-analyst/AGT-02_Analyst%E3%81%AB%E3%83%AA%E3%82%B9%E3%82%AF%E3%81%AE%E9%AB%98%E3%81%84SKU%E7%89%B9%E5%AE%9A%E3%82%92%E5%A7%94%E4%BB%BB%E3%81%99%E3%82%8B.html">
+  <a class="c30-door w3" href="../../contents/06-microsoft-agents/MSA-02_Analyst%E3%81%AB%E3%83%AA%E3%82%B9%E3%82%AF%E3%81%AE%E9%AB%98%E3%81%84SKU%E7%89%B9%E5%AE%9A%E3%82%92%E5%A7%94%E4%BB%BB%E3%81%99%E3%82%8B.html">
     <span class="c30-num"><b>27</b><span>DOOR</span></span>
     <span class="c30-title">Analystにリスクの高いSKU特定を委任する</span>
     <span class="c30-subtitle">データ・経営管理</span>
     <span class="c30-meta">約 10 分</span>
   </a>
-  <a class="c30-door w3" href="../../contents/06-researcher-analyst/AGT-01_Researcher%E3%81%AB%E5%B8%82%E5%A0%B4%E8%AA%BF%E6%9F%BB%E3%83%96%E3%83%AA%E3%83%BC%E3%83%95%E3%82%92%E5%A7%94%E4%BB%BB%E3%81%99%E3%82%8B.html">
+  <a class="c30-door w3" href="../../contents/06-microsoft-agents/MSA-01_Researcher%E3%81%AB%E5%B8%82%E5%A0%B4%E8%AA%BF%E6%9F%BB%E3%83%96%E3%83%AA%E3%83%BC%E3%83%95%E3%82%92%E5%A7%94%E4%BB%BB%E3%81%99%E3%82%8B.html">
     <span class="c30-num"><b>28</b><span>DOOR</span></span>
     <span class="c30-title">Researcherに市場調査ブリーフを委任する</span>
     <span class="c30-subtitle">調査・戦略</span>

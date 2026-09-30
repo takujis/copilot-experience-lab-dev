@@ -122,8 +122,8 @@ Week 1〜3 で選択肢を広げ、Day 15 で定番にする作業を 1 つ決�
 | `WRD-01` | [短いブリーフを10章のローンチ文書に展開する](../../contents/04-word/WRD-01_短いブリーフを10章のローンチ文書に展開する.md) | 営業・提案 | 約 10 分 |
 | `CHAT-16` | [複数資料を比較する](../../contents/01-copilot-chat/CHAT-16_複数資料を比較する.md) | 営業・提案・調達 | 約 10 分 |
 | `XLS-01` | [売上データから地域別の弱点と価格施策を導く](../../contents/03-excel/XLS-01_売上データから地域別の弱点と価格施策を導く.md) | データ・経営管理 | 約 15 分 |
-| `AGT-02` | [Analystにリスクの高いSKU特定を委任する](../../contents/06-researcher-analyst/AGT-02_Analystにリスクの高いSKU特定を委任する.md) | データ・経営管理 | 約 10 分 |
-| `AGT-01` | [Researcherに市場調査ブリーフを委任する](../../contents/06-researcher-analyst/AGT-01_Researcherに市場調査ブリーフを委任する.md) | 調査・戦略 | 約 10 分 |
+| `MSA-02` | [Analystにリスクの高いSKU特定を委任する](../../contents/06-microsoft-agents/MSA-02_Analystにリスクの高いSKU特定を委任する.md) | データ・経営管理 | 約 10 分 |
+| `MSA-01` | [Researcherに市場調査ブリーフを委任する](../../contents/06-microsoft-agents/MSA-01_Researcherに市場調査ブリーフを委任する.md) | 調査・戦略 | 約 10 分 |
 | `CHAT-IMG-02` | [自社のホームページから企業紹介インフォグラフィックを作る](../../contents/01-copilot-chat/CHAT-IMG-02_自社のホームページから企業紹介インフォグラフィックを作る.md) | 広報・営業 | 約 10 分 |
 
 **全員に案内する**：[既存資料を要約する](../../contents/01-copilot-chat/CHAT-18_既存資料を要約する.md)／[長い文書をレビューしてもらう](../../contents/04-word/WRD-02_長い文書をレビューしてもらう.md)
@@ -136,14 +136,14 @@ Week 1〜3 で選択肢を広げ、Day 15 で定番にする作業を 1 つ決�
 | 全社視点・戦略 | `CHAT-06` |
 | 企画・マーケティング | `CHAT-02` ／ `CHAT-01` |
 | 営業・提案 | `WRD-01` ／ `CHAT-16` |
-| データ・経営管理 | `XLS-01` ／ `AGT-02` |
-| 調査・戦略 | `AGT-01` |
+| データ・経営管理 | `XLS-01` ／ `MSA-02` |
+| 調査・戦略 | `MSA-01` |
 | 広報・営業 | `CHAT-IMG-02` |
 
 一般的な回答と、**自社ファイルを根拠にした回答の差**を参加者に体感してもらう週です（`CHAT-06`）。
 この時点までに、メール・会議・文書・データ・資料という主要な使い道をひととおり試せるよう案内します。
 
-> `AGT-01` / `AGT-02`（Researcher / Analyst）は、ライセンスとテナント設定によって利用可否が変わります。事前に確認し、使えない場合はデモに切り替えてください。
+> `MSA-01` / `MSA-02`（Researcher / Analyst）は、ライセンスとテナント設定によって利用可否が変わります。事前に確認し、使えない場合はデモに切り替えてください。
 
 ---
 
@@ -332,8 +332,8 @@ Teams を利用できない場合や参加者がメールでの連絡に慣れ�
 | 24 | `WRD-01` | [短いブリーフを10章のローンチ文書に展開する](../../contents/04-word/WRD-01_短いブリーフを10章のローンチ文書に展開する.md) | Week 3 | 約 10 分 |
 | 25 | `CHAT-16` | [複数資料を比較する](../../contents/01-copilot-chat/CHAT-16_複数資料を比較する.md) | Week 3 | 約 10 分 |
 | 26 | `XLS-01` | [売上データから地域別の弱点と価格施策を導く](../../contents/03-excel/XLS-01_売上データから地域別の弱点と価格施策を導く.md) | Week 3 | 約 15 分 |
-| 27 | `AGT-02` | [Analystにリスクの高いSKU特定を委任する](../../contents/06-researcher-analyst/AGT-02_Analystにリスクの高いSKU特定を委任する.md) | Week 3 | 約 10 分 |
-| 28 | `AGT-01` | [Researcherに市場調査ブリーフを委任する](../../contents/06-researcher-analyst/AGT-01_Researcherに市場調査ブリーフを委任する.md) | Week 3 | 約 10 分 |
+| 27 | `MSA-02` | [Analystにリスクの高いSKU特定を委任する](../../contents/06-microsoft-agents/MSA-02_Analystにリスクの高いSKU特定を委任する.md) | Week 3 | 約 10 分 |
+| 28 | `MSA-01` | [Researcherに市場調査ブリーフを委任する](../../contents/06-microsoft-agents/MSA-01_Researcherに市場調査ブリーフを委任する.md) | Week 3 | 約 10 分 |
 | 29 | `CHAT-IMG-02` | [自社のホームページから企業紹介インフォグラフィックを作る](../../contents/01-copilot-chat/CHAT-IMG-02_自社のホームページから企業紹介インフォグラフィックを作る.md) | Week 3 | 約 10 分 |
 | 30 | `AGB-01` | ★ [繰り返し業務を洗い出して1件に絞る](../../contents/07-agent-builder/AGB-01_繰り返し業務を洗い出して1件に絞る.md) | 立ち止まる | 約 15 分 |
 | 31 | `CHAT-15` | [Copilot自分の使い方からユースケースを作る](../../contents/01-copilot-chat/CHAT-15_Copilot自分の使い方からユースケースを作る.md) | 立ち止まる | 約 10 分 |
